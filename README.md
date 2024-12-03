@@ -1,6 +1,6 @@
 # AVALIA - Sistemas de Informação
 
-Este repositório contém scripts e dados utilizados para o desenvolvimento da ferramenta **Avalia**, que utiliza um Large Language Model (LLM), ou modelo de linguagem de grande porte, para analisar dados do Exame Nacional de Desempenho dos Estudantes (ENADE) do curso de Sistemas de Informação da Faculdade Metodista Granbery. 
+Este repositório contém os scripts e os dados utilizados para o desenvolvimento da ferramenta **Avalia**, que utiliza um Large Language Model (LLM), ou modelo de linguagem de grande porte, para analisar dados do Exame Nacional de Desempenho dos Estudantes (ENADE) do curso de Sistemas de Informação da Faculdade Metodista Granbery. 
 
 A ferramenta **AvalIA** visa identificar padrões de dificuldades e lacunas de conhecimento dos alunos, correlacionando questões do exame, disciplinas do curso e resultados dos alunos, com o objetivo de subsidiar revisões no projeto pedagógico e aprimorar a qualidade do ensino. 
 
