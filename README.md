@@ -6,25 +6,33 @@ A ferramenta **Avalia** utiliza um *Large Language Model* (LLM), ou modelo de li
 
 ## Estrutura do Projeto
 
-- **`chatbot.py`**: Implementação do chatbot usando Gradio e o modelo GPT-4. Permite aos usuários fazer perguntas sobre o desempenho dos alunos no ENADE e acessar relatórios gerados a partir das análises. O chatbot usa o modelo de linguagem para responder perguntas com base em um resumo das questões e informações armazenadas no arquivo `detalhamento_por_questao_unificado.txt`.
+- **`request_provas_enade.py`**: Script para baixar as provas do ENADE disponíveis online. Utiliza a biblioteca `requests` para realizar o download dos PDFs a partir dos URLs.
 
-- **`desempenho_estudantes_dinamico.py`**: Extrai dados de relatórios de desempenho em PDF e os transforma em tabelas CSV, que são usadas para a análise posterior. Esse script processa os relatórios do ENADE e converte os dados para um formato estruturado, facilitando o uso em outras aplicações.
+- **`requests_relatorio_desempenho_enade.py`**: Realiza requisições para baixar relatórios de desempenho dos estudantes no ENADE a partir dos URLs.
 
-- **`detalhamento_por_questao_unificado.txt`**: Contém um resumo detalhado das questões do ENADE, incluindo informações sobre a disciplina relacionada, ementa, percentual de acerto, e similaridade entre as questões e o conteúdo das disciplinas.
-
-- **`disciplinas_si_fmg.json`**: Arquivo JSON contendo as disciplinas do curso de Sistemas de Informação, suas respectivas ementas, carga horária e bibliografias.
-
+- **`desempenho_estudantes_dinamico.py`**: Extrai dados dos relatórios de desempenho em PDF e os transforma em tabelas CSV, que são usadas para a análise posterior. Esse script processa os relatórios do ENADE e converte os dados para um formato estruturado, facilitando o uso em outras aplicações.
+  
 - **`extracao_disciplinas_ementa_si_fmg.py`**: Script para extrair as disciplinas e suas informações, como ementa e bibliografia, de um arquivo PDF contendo o currículo do curso. O script utiliza a biblioteca `PyMuPDF` para ler o PDF e armazenar os dados em formato JSON.
 
-- **`prompt_cosine_similarity_dinamico.py`**: Script que utiliza modelos de embedding da OpenAI e similaridade do cosseno para correlacionar questões do ENADE com disciplinas do curso. Ele também utiliza um modelo de linguagem para calcular uma média ponderada entre a similaridade do cosseno e uma avaliação mais subjetiva baseada no contexto.
+- **`disciplinas_si_fmg.json`**: Arquivo JSON contendo as disciplinas do curso de Sistemas de Informação, suas respectivas ementas, carga horária e bibliografias.
+ 
+- **`detalhamento_por_questao_unificado.txt`**: Contém um resumo detalhado das questões do ENADE, incluindo informações sobre a disciplina relacionada, ementa, percentual de acerto, e similaridade entre as questões e o conteúdo das disciplinas.
+
+- **`provas_enade`**: Pasta que contém os arquivos das provas do ENADE, em pdf.
+
+- **`questoes_infos`**: Pasta que contém os arquivos json com todas as questões extraídas das provas do ENADE.
+
+- **`relatorios_desempenho`**: Pasta que contém os arquivos de relatório de desempenho disponibilizados pelo INEP, em pdf.
+
+- **`tabelas_desempenho_alunos`**: Pasta que contém os arquivos CSV das tabelas com os dados de desempenho dos alunos da FMG no ENADE.
+  
+- **`prompt_cosine_similarity_dinamico.py`**: Script que utiliza modelos de embedding da OpenAI, similaridade calculada pelo LLM e similaridade do cosseno para correlacionar questões do ENADE com disciplinas do curso.
 
 - **`questoes_infos_dinamico.py`**: Utiliza OCR (`pytesseract`) para extrair o texto das questões dos arquivos PDF do ENADE, estruturando os dados para posterior análise. As questões extraídas são salvas em arquivos JSON.
 
 - **`relatorio_chatbot_unificado.txt`**: Relatório simplificado com informações sobre cada questão e a disciplina correspondente, incluindo um resumo do conteúdo da questão.
 
-- **`request_provas_enade.py`**: Script para baixar as provas do ENADE disponíveis online. Utiliza a biblioteca `requests` para realizar o download dos PDFs a partir dos URLs.
-
-- **`requests_relatorio_desempenho_enade.py`**: Realiza requisições para baixar relatórios de desempenho dos estudantes no ENADE. Gera arquivos PDF dos relatórios que são usados em outras etapas da análise.
+- **`chatbot.py`**: Implementação do chatbot usando Gradio e o modelo GPT-4. Permite aos usuários fazer perguntas sobre o desempenho dos alunos no ENADE e acessar relatórios gerados a partir das análises. O chatbot usa o modelo de linguagem para responder perguntas com base em um resumo das questões e informações armazenadas no arquivo `detalhamento_por_questao_unificado.txt`.
 
 ## Como Executar
 
