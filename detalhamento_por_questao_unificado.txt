@@ -1,0 +1,2718 @@
+Detalhamento por Questão de Conteúdo Específico:
+
+Ano: 2017
+    Questão 11:
+        Texto: O diagrama Entidade-Relacionamento (DER) a seguir apresenta a modelagem conceitual de dados de
+um sistema de informação para um museu. A partir dessa modelagem observa-se o seguinte: uma Obra
+é criada por um único Artista e um Artista pode criar no mínimo uma Obra e no máximo várias Obras; as
+entidades Pintura e Escultura são especializações da entidade Obra; um Artista tem o domínio de várias
+
+Exame Nacional de Desempenho
+dos Estudantes
+
+Técnicas, assim como uma Técnica é dominada por diversos Artistas.
+
+Com base nas regras de mapeamento que transformam o Modelo Conceitutal em um Modelo Lógico
+Relacional, avalie as afirmações a seguir, a respeito do Esquema Lógico Relacional gerado a partir do DER
+apresentado.
+
+tipo de tinta ol
+
+(Odimensões
+O data de aquisição
+
+O título
+
+O código
+
+(1,n)
+
+Escultura
+
+Lo material
+
+Pintura
+
+Técnica
+
+(O descrição
+
+No Esquema Lógico Relacional, haverá uma tabela associativa, criada em função do relacionamento
+muitos para muitos entre as entidades Artista e Técnica, que terá uma chave primária composta
+pelo código do artista e o código da técnica.
+No Esquema Lógico Relacional, haverá uma tabela Artista na qual o atributo código do artista será
+a chave primária da tabela, e o código da obra será uma chave estrangeira que fará referência a
+uma obra existente na tabela Obra.
+No Esquema Lógico Relacional, haverá, em função da generalização/especialização, uma tabela
+Obra com apenas os atributos código da obra, título, data de aquisição e dimensões, e duas outras
+tabelas: a tabela Pintura, com apenas o atributo tipo de tinta, e a tabela Escultura com apenas o
+atributo material.
+
+É correto o que se afirma em
+
+O 1 apenas.
+O Il apenas.
+O lelll, apenas.
+O lei, apenas.
+
+O ,llell.
+
+18
+
+SISTEMAS DE INFORMAÇÃO
+
+O nacionalidade
+
+código
+
+2017
+enade AV
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: MODELAGEM DE BANCO DE DADOS
+        Ementa relacionada: Apresenta os conceitos de Banco de Dados e Sistema Gerenciador de Banco de Dados. Demonstra as fases de projeto de um Banco de Dados: a construção do Modelo Conceitual usando Diagrama de Entidade e Relacionamento, a construção do Modelo Lógico usando Diagrama de Tabelas Relacionais e a normalização de esquemas utilizando as formas normais. Fundamentos do Modelo Físico de Banco de dados Relacional, Introdução a Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL. BIBLIOGRAFIA COMPLEMENTAR: GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/6289 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127
+        Carga horária: 40
+        Período: 3
+        Percentual de acerto (IES): 18,9
+        Percentual de acerto (UF): 23,3
+        Percentual de acerto (Região): 21,8
+        Percentual de acerto (Brasil): 21,6
+        Percentual de similaridade do cosseno: 87.15%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.07287838449575
+
+Ano: 2017
+    Questão 12:
+        Texto: A TI Verde está associada à utilização eficiente dos recursos organizacionais e à minimização
+dos efeitos nocivos ao meio ambiente ocasionados pelo uso da Tecnologia da Informação (TI).
+Essas tecnologias são feitas de produtos químicos, metais pesados, materiais sintéticos etc.
+Considerando que existirão 10 bilhões de pessoas no nosso planeta em 2050, teremos que gerir tanto
+o impacto ambiental da tecnologia, quanto usar esta mesma tecnologia para ajudar a gerenciar o
+impacto da espécie humana no planeta.
+
+Disponível em: <http://www.sustentti.com.br>. Acesso em: 21 jul. 2017 (adaptado).
+A partir dessas informações e considerando o conceito de TI Verde, avalie as afirmações a seguir.
+
+|. Um dos pilares da TI Verde é a busca de conscientização do usuário na adoção de ações
+sustentáveis, tais como: reduzir impressões inúteis economizando papel e tinta/toner e evitar o
+envio desnecessário de e-mails reduzindo o gasto de energia do sistema e do receptor.
+
+Il. Nalinha de eficiência energética estão os data centers verdes, nos quais a virtualização de servidores
+pode ser utilizada para fazer com que uma única máquina física, considerando sua capacidade de
+processamento, emule diversas máquinas.
+
+HI. Um equívoco comum é considerar ações relativas ao lixo eletrônico como ações de TI Verde a
+serem adotadas pela organização, pois essas questões estão fora de sua governança.
+
+É correto o que se afirma em
+O | apenas.
+
+O Ill, apenas.
+
+O lell, apenas.
+
+O lei, apenas.
+
+O Llell.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 19
+        Disciplina relacionada: Direito, Ética e Sustentabilidade Ambiental
+        Ementa relacionada: A universidade do fenômeno jurídico. A sociedade e suas instituições. O Estado: formas, fundamentos e elementos. O Direito: Fontes, sujeitos, objeto e classificação. Humanismo e Direitos Humanos. Ética como ponto de contato entre as ciências. Tipos de ética: Reflexos sobre o agir. A ética na economia, na política, na ecologia e nas relações de gênero. Ética profissional. Aspectos jurídicos e profissionais da computação. Mercado de trabalho e análise do ciclo de vida dos produtos, com base na sustentabilidade. BIBLIOGRAFIA COMPLEMENTAR: NIARADI, G. Direito Empresarial para Administradores. Editora Pearson. 2019. https://plataforma.bvirtual.com.br/Acervo/Publicacao/177790 DIAS, R. Sociologia e Ética profissional. Editora Pearson. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/22111 TESSARO, A. B. Tecnologias, Sistemas e Materiais ecoeficientes. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/185817 BOFF, L. Sustentabilidade: o que é e o que não não é. Editora Vozes. 2016. https://plataforma.bvirtual.com.br/Acervo/Publicacao/149503 QUINTEROS, C. C. G. Gestão da Sustentabiliade e Responsabilidade Social. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/193057
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 45,9
+        Percentual de acerto (UF): 53,5
+        Percentual de acerto (Região): 53,3
+        Percentual de acerto (Brasil): 52,0
+        Percentual de similaridade do cosseno: 83.57%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 84.28574667310362
+
+Ano: 2017
+    Questão 13:
+        Texto: 2017
+E enade
+
+Exame Nacional de Desempenho
+dos Estudantes
+
+R 4
+
+Analise a figura a seguir.
+
+Coordenação administrativa e serviços de apoio
+Intranet de fluxo de trabalho colaborativo
+Gerenciamento de recursos humanos
+Intranet de benefícios de funcionários
+
+Processos
+de apoio Desenvolvimento tecnológico
+Extranet de desenvolvimento de produtos com parceiros
+Obtenção de recursos
+Portais de e-commerce para fornecedores
+Logística Operações Logística Marketing Atendimento
+de entrada de saída e vendas ao cliente
+Processos 4
+de negócio Armazenamento| Produção Pontos de . Gestão do
+primários automatizado flexível venda e Marketing  Irelacionamento
+just-in-time apoiada por  |processamento| direcionado | com o cliente
+computador de pedidos
+
+on-line
+
+O'BRIEN, J. A.; MARAKAS, G. M. Administração de sistemas de informação. 15. ed. Porto Alegre: AMGH, 2012 (adaptado).
+A partir da análise da figura, avalie as afirmações a seguir.
+
+I. É apresentado um exemplo de como e onde as tecnologias da informação podem ser aplicadas nos
+processos de negócios por meio da estrutura de cadeia de valor.
+
+Il. É sugerido que um fluxo de trabalho colaborativo pela intranet pode aumentar as comunicações
+e colaborações necessárias à significativa melhoria da coordenação administrativa e dos serviços
+de apoio.
+
+Ill. É sugerido que os portais de E-Commerce podem melhorar a economia de recursos ao oferecer
+mercados on-line para os fornecedores.
+
+IV. É demonstrado que a vantagem competitiva é ampliada quando a área de Tecnologia da
+Informação (TI) está alinhada ao negócio.
+
+É correto o que se afirma em
+
+O Lilelll, apenas.
+O Ile Iv, apenas.
+O Lille Iv, apenas.
+O I,Ille Iv, apenas.
+O LiLillelv.
+
+Área livre
+
+20 SISTEMAS DE INFORMAÇÃO
+
+2017
+enade E
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+        Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 27,0
+        Percentual de acerto (UF): 39,4
+        Percentual de acerto (Região): 39,7
+        Percentual de acerto (Brasil): 39,3
+        Percentual de similaridade do cosseno: 87.07%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.03312370640347
+
+Ano: 2017
+    Questão 15:
+        Texto: Os sistemas de informação ampliaram sua
+perspectiva de atuação do simples uso do
+computador como ferramenta para a rápida
+
+execução de tarefas rotineiras até o campo dos
+negócios. Tal fato, aliado às possibilidades providas
+pelas Tecnologias da Informação e Comunicação
+(TIC) e pelos avanços específicos em hardware,
+software, nuvem, conectividade e redes sociais,
+ampliou as exigências em relação aos sistemas.
+
+Como forma de contribuir para o processo de
+desenvolvimento e implantação, surgiu a abordagem
+da Arquitetura de Sistemas de Informação (ASI).
+Inicialmente tratada como arquitetura de dados,
+a ASI acompanhou a evolução dos sistemas
+de informação e incorporou uma visão mais
+abrangente, com a inclusão das perspectivas de
+negócio, da visão organizacional, da evolução das
+TIC e dos usuários.
+
+TAIT, T. F. C.; PACHECO, R. C. S.; ABREU, A. F. Arquitetura de sistemas
+de informação: análise comparativa de modelos. Produção,
+Rio de Janeiro, v. 9, n. 1 p. 55-64, 1999 (adaptado).
+
+Considerando esse cenário, avalie as asserções a
+seguir e a relação proposta entre elas.
+
+Il A abordagem ASI estabelece um
+mapeamento da organização que considera
+os elementos envolvidos com o processo de
+        Disciplina relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+        Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 54,1
+        Percentual de acerto (UF): 51,3
+        Percentual de acerto (Região): 52,7
+        Percentual de acerto (Brasil): 50,1
+        Percentual de similaridade do cosseno: 89.43%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.21495998125165
+
+Ano: 2017
+    Questão 16:
+        Texto: O processo de design de interação possui quatro
+atividades básicas: identificar as necessidades
+e estabelecer requisitos, desenvolver designs
+
+alternativos que preencham estes requisitos,
+construir versões interativas dos designs e
+avaliação.
+
+Nesse contexto, avalie as afirmações a seguir.
+
+Il. O processo de design de interação é
+complementar aos modelos de ciclo de vida
+de desenvolvimento de software.
+
+Il. A participação do usuário do sistema no
+processo de design de interação é dispensável,
+uma vez que os desenvolvedores conhecem
+todas as regras referentes ao web design.
+
+lt. A observação de designs de interação
+desenvolvidos por outros profissionais
+motiva os designers para soluções
+alternativas.
+
+IV. A prototipação é uma técnica para facilitar
+o feedback do usuário nas etapas do
+processo de design de interação.
+
+É correto apenas o que afirma em
+
+desenvolvimento/implantação de sistemas | Q |.
+de informação. O leiv
+PORQUE :
+= Q o . O Lllell.
+IH. O objetivo da ASI é inter-relacionar o
+dados, disponibilizar hardware, software L le IM.
+e recursos de redes, para processar | O IL Ille IV.
+transações, produzir informação e suportar Área livre
+uma variedade de domínios de aplicação.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções le Il são proposições verdadeiras,
+ea Il é uma justificativa correta de |.
+O As asserções le Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta de |.
+O Aasserção | é uma proposição verdadeira, ea ll
+é uma proposição falsa.
+O Aasserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O Asasserçõesle Il são proposições falsas.
+22 SISTEMAS DE INFORMAÇÃO
+
+2017
+enade AM
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: Interface Humano-computador
+        Ementa relacionada: Introduz conceitos fundamentais da interação entre o usuário humano e o computador. Apresenta usabilidade e métodos para avaliação da usabilidade. Apresenta a interação do usuário com sistemas hipermídia. Trata sobre questões de Acessibilidade na interação homem-computador. BIBLIOGRAFIA COMPLEMENTAR ULBRICHT, Valeria Ribas; FADEL, Luciane Maria; BATISTA; Claudia Regina. Design para acessibilidade e inclusão. São Paulo, SP: Editora Blucher. 2017. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/163640/pdf/0 FERREIRA, Marcelo Bellon. Prototipagem e testes de usabilidade. 1. ed. Curitiba, PR:Contentus, 2020. [Recurso eletrônico]. ISBN: 9786557452370. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/183505/pdf/0 COSTA, Margarete Terezinha de Andrade Costa. Tecnologia assistiva. 1. Ed. Curitiba, PR:Contentus, 2020. ISBN: 9786557450253. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/182444/pdf/0 CARDOSO, Leandro da Conceição. Design Digital. 1. Ed. Curitiba, PR: Intersaberes, 2021. ISBN: 9786555179330. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/187436/pdf/0 ABRAHÃO, Júlia Issy; MONTEDO, Uiara Bandineli; MASCIA. Fausto Leopoldo; FLEURY, André Leme; SANTOS, Hebert dos. Ergonomia e usabilidade: em ambiente virtual de aprendizagem. 1. Ed. São Paulo, SP: Editora Blucher, 2013. ISBN: 9788521206392. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/164692/pdf/0
+        Carga horária: 40
+        Período: 1
+        Percentual de acerto (IES): 64,9
+        Percentual de acerto (UF): 75,0
+        Percentual de acerto (Região): 72,1
+        Percentual de acerto (Brasil): 72,2
+        Percentual de similaridade do cosseno: 87.21%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.105815970679
+
+Ano: 2017
+    Questão 17:
+        Texto: Uma equipe de projeto desenvolveu um aplicativo mobile para a gestão de frotas de caminhões entre os
+meses de janeiro e junho de 2017. O projeto seguiu um processo baseado no modelo de ciclo de vida de
+desenvolvimento em cascata, com atividades realizadas sequencialmente e sem sobreposição.
+
+Ao final do projeto, a equipe precisou tratar uma grande quantidade de defeitos encontrados no aplicativo
+em um curto espaço de tempo. Como mostra o gráfico a seguir, a maior parte dos defeitos foi identificada
+ao final do projeto, o que elevou o risco de se entregar o aplicativo com muitos defeitos ao cliente.
+
+Frequência mensal de defeitos do aplicativo desenvolvido no projeto
+
+20 7
+
+157
+
+104
+
+Quantidade de defeitos identificados
+
+Diante desse cenário, a equipe do projeto decidiu que, em novos projetos, realizaria ações que pudessem
+distribuir o esforço de tratamento de defeitos ao longo dos meses, diminuindo o risco de ainda haver
+muitos defeitos não tratados no momento próximo à entrega do produto.
+
+Considerando a situação, o gráfico apresentado e o modelo de ciclo de vida de desenvolvimento utilizado
+no projeto (cascata), assinale a opção que descreve uma ação capaz de produzir o resultado esperado
+pela equipe.
+
+Q Realizar testes assim que o aplicativo estiver pronto para uso.
+
+O Aplicar técnicas de verificação e validação desde o início do projeto.
+
+O Mapear e documentar o processo de desenvolvimento utilizado e comunicá-lo à equipe.
+
+O licitar e documentar os requisitos funcionais e não funcionais do produto logo no início do projeto.
+
+O Registrar, evidenciar e comunicar imediatamente os defeitos encontrados aos demais membros da equipe.
+
+SISTEMAS DE INFORMAÇÃO 23
+
+* R4 020172 4 *
+
+enade”
+
+Exame Nacional de Desempenho
+
+dos Estudantes
+        Disciplina relacionada: Verificação, validação e Testes de Software
+        Ementa relacionada: Analisa questões que envolvem a homologação dos produtos de software no que se refere à validação e testes do produto quanto as questões de manutenção. Apresenta a importância de aplicar formalismos na verificação, validação e teste de software abordando conceitos de Teste e Inspeção de software. Teste de unidade. Complexidade Ciclomática. Análise do Valor Limite. Teste de Cobertura. Teste Funcional. Particionamento em Classes de Equivalência. Métricas de Complexidade OO. Teste em Banco de Dados. Teste de Desempenho. Teste com Objetos Mock. Teste de Mutação. Teste em API. Teste de Integração. Controle de Defeitos. Teste de frontend. BIBLIOGRAFIA COMPLEMENTAR: SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 PFLEEGER. S. L. Engenharia de Software: teoria e prática - 2ª edição. São Paulo: Pretice Hall, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/476 VASQUEZ, C. E. SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193 PAGE-JONES. M. Fundamentos do Desenho Orientado a Objeto com UML. São Paulo: Makron Books, 2001. https://plataforma.bvirtual.com.br/Leitor/Publicacao/33/ DEITEL, P; DEITEL, H. C como programar. 8. ed. São Paulo: Pearson Education, 2011 (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/2660/pdf/0
+        Carga horária: 80
+        Período: 6
+        Percentual de acerto (IES): 78,4
+        Percentual de acerto (UF): 76,7
+        Percentual de acerto (Região): 74,9
+        Percentual de acerto (Brasil): 73,8
+        Percentual de similaridade do cosseno: 87.01%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.00417152255869
+
+Ano: 2017
+    Questão 18:
+        Texto: Uma empresa iniciou um projeto para implantação
+de um ERP (Enterprise Resource Planning), com o
+objetivo de aumentar a produtividade e elevar seu
+patamar tecnológico. O sistema que era utilizado
+anteriormente foi desenvolvido pela própria
+empresa e não mais atendia às necessidades
+operacionais. A empresa optou por implantar
+um módulo WMS (Warehouse Management
+System), que se ocupa de tarefas relacionadas
+ao gerenciamento das operações de estoques.
+O módulo foi parametrizado e customizado de
+acordo com as necessidades identificadas na fase
+de planejamento do projeto de implantação.
+
+A partir do caso apresentado, avalie as asserções a
+seguir e a relação proposta entre elas.
+
+Il. Customização é a modificação de um
+sistema ERP para que ele possa adaptar-se
+a determinada situação empresarial que
+não pode ser reproduzida por parâmetros
+preexistentes.
+
+PORQUE
+
+IH. A parametrização é o processo de
+determinação do comportamento de um
+sistema ERP por meio da definição dos
+valores de parâmetros disponibilizados por
+ele, que são variáveis internas.
+
+A respeito dessas asserções, assinale a opção
+correta.
+
+O Asasserçõesle Il são proposições verdadeiras e
+a Il é uma justificativa correta da |.
+
+O As asserções le Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+
+O Aasserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+
+O Asasserçõesle Il são proposições falsas.
+        Disciplina relacionada: GESTÃO POR PROCESSOS
+        Ementa relacionada: Visão estratégica de negócio com foco na modelagem, documentação e otimização dos Processos de Negócios. Mapeamento e modelagem de processos de negócio, incluindo ferramentas, notações visuais, frameworks e softwares de mercado. Gestão de processos de negócio visando o entendimento dos processos de negócio e o papel e atuação do profissional da Tecnologia da Informação no atendimento às diversas áreas de uma organização, mas principalmente na implementação de soluções tecnológicas integradas. Gestão da engenharia de requisitos de software com um olhar nos processos de negócio da empresa e suas necessidades. BIBLIOGRAFIA COMPLEMENTAR USIRONO, Carlos H. Escritório de Processos: BPMO (Business Process Management Office). Rio de Janeiro: Editora Brasport, 2015. ISBN 9788574527642. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/160396 PERLINGEIRO, C. A. G. Engenharia de Processos. Editora Blucher. 2005. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/164113 LAJE JUNIOR, M. Mapeamento de Processos de Gestão Empresarial. Editora Intersaberes. 2016. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/42174 STADLER, A. Gestão de processos com suporte em tecnologia da informação. Editora Intersaberes. 2013. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/9973 ALBERTIN, M. R.; PONTES, H. L. J. Gestão de processos e técnicas de produção enxuta. Editora Intersaberes. 2016. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/37470
+        Carga horária: 40
+        Período: 1
+        Percentual de acerto (IES): 45,9
+        Percentual de acerto (UF): 42,6
+        Percentual de acerto (Região): 39,4
+        Percentual de acerto (Brasil): 37,8
+        Percentual de similaridade do cosseno: 83.68%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 84.34000564364352
+
+Ano: 2017
+    Questão 19:
+        Texto: A teoria dos grafos estuda as relações entre
+elementos em um determinado conjunto.
+Um grafo G (V, E) é determinado por um conjunto
+não vazio de vértices (V) e um subconjunto de pares
+de vértices não ordenados, chamados arestas (E).
+
+A figura a seguir representa a possibilidade
+de voos de uma companhia aérea tal que
+
+V = Porto Alegre, Curitiba, São Paulo,
+Rio de Janeiro e Brasília), representa
+o conjunto das capitais (vértices), e
+
+E = ((Porto Alegre, Curitiba), (Curitiba, São
+Paulo), (São Paulo, Rio de Janeiro), (Porto
+Alegre, Rio de Janeiro), (São Paulo, Brasília),
+representa essas possíveis conexões (arestas)
+
+entre as capitais.
+Rio de Janeiro
+
+Brasília
+
+Porto Alegre
+
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+
+Il. São Paulo é adjacente a Porto Alegre.
+Il. Porto Alegre possui valência igual a 2.
+
+Ill. Rio de Janeiro é incidente em São Paulo e
+
+Porto Alegre.
+
+IV. Curitiba possui comprimento igual a 2.
+
+É correto apenas o que se afirma em
+Q el.
+
+O lei.
+
+O Ilelv.
+
+O Lielv.
+
+O Lileiv.
+
+24
+
+SISTEMAS DE INFORMAÇÃO
+
+2017
+enade A
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: Estruturas de Dados Avançadas
+        Ementa relacionada: Introduz a Teoria dos Grafos e suas representações em ambiente computacional. Análise de algoritmos, análise assintótica e notação O. Apresenta estudos de diversos problemas, que têm nos grafos, uma forma abstrata de representação. Implementação de árvores, grafos, funções de hashing e ordenação. BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 BARBOSA, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 DEITEL. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição .https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 PIANEZZER, Guilherme Augusto.Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0 STALLINGS, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0
+        Carga horária: 40
+        Período: 7
+        Percentual de acerto (IES): 43,2
+        Percentual de acerto (UF): 50,4
+        Percentual de acerto (Região): 47,4
+        Percentual de acerto (Brasil): 46,0
+        Percentual de similaridade do cosseno: 88.64%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.82219884399126
+
+Ano: 2017
+    Questão 20:
+        Texto: Em uma seleção para uma vaga de programador, o setor de recursos humanos de uma empresa criou três
+sentenças essenciais para a escolha do candidato, representadas pelas variáveis proposicionais p, qer:
+
+e »p:o candidato tem experiência com a linguagem Python;
+e q:o candidato tem experiência com a linguagem Java;
+e r:o candidato é pouco experiente como programador.
+
+A partir das três sentenças criadas, foi gerada uma proposição composta S para avaliação dos candidatos:
+S=(pvaa (gana).
+
+Assinale a opção que representa corretamente a tabela-verdade do cálculo proposicional S.
+
+r r |(pva) |(gna2)
+v|yv v v v|yv v F
+o
+plalr (va |(anon|S plalr (va |(anon|S
+vivIyv v v v vivIyv v F F
+ElvIyv v v v ElvIyv v F F
+FIFIE F F F FIFIE F F F
+:
+FIV F F
+o
+FIV F F
+F F y
+SISTEMAS DE INFORMAÇÃO 25
+
+R 4
+
+020172 6%
+        Disciplina relacionada: RACIOCÍNIO ANALÍTICO E LÓGICA MATEMÁTICA
+        Ementa relacionada: Técnicas diferenciadas para resolução de problemas e a construção do raciocínio analítico. Resolução de problemas de raciocínio, com argumentações do tipo mentiras e verdades, crescendo para as questões de proposições lógicas. Construção de tabela-verdade. BIBLIOGRAFIA COMPLEMENTAR: LEITE, Álvaro Emilio. Raciocínio Lógico e Lógica Quantitativa. Intersaberes. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/54340 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 WUINSLER, Aline Purcote. Raciocínio lógico, crítico e analítico contábil. Curitiba Contentus, 2020. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/186717/ SOUZA, Jeferson Afonso Lopes de. Lógica Matemática. São Paulo: Pearson, 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/150814 SOUZA, Sérgio Guedes de. Lógica de Programação Algorítmica. Ed São Paulo: Pearson, 2014. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22146 )
+        Carga horária: 80
+        Período: 2
+        Percentual de acerto (IES): 37,8
+        Percentual de acerto (UF): 39,6
+        Percentual de acerto (Região): 35,4
+        Percentual de acerto (Brasil): 35,9
+        Percentual de similaridade do cosseno: 84.88%
+        Percentual de similaridade do modelo: 70.0
+        Percentual de similaridade média: 77.44061199340192
+
+Ano: 2017
+    Questão 21:
+        Texto: enade”
+
+Exame Nacional de Desempenho
+dos Estudantes
+
+Uma startup de tecnologia pretende desenvolver um aplicativo que aproxime empresas que precisam
+
+transportar mercadorias de condutores autônomos de veículos de carga (transportadores). O uso do
+
+aplicativo permitirá um aumento do número potencial de transportadores e de tipos de veículos, bem
+
+como o compartilhamento de frete, com redução do custo de transporte e do custo de armazenamento
+
+de mercadorias pelas empresas. Além disso, a visibilidade da disponibilidade dos transportadores pelo
+
+aplicativo pode aumentar suas possibilidades de negócios. Durante a concepção e o projeto do aplicativo,
+
+foram elaborados modelos UML (Unified Modeling Language), sendo um deles o diagrama de atividades,
+
+conforme apresentado na figura a seguir.
+
+N
+
+O
+
+Empresa que precisa do transporte
+
+Informar origem, destino
+e tipo de carga
+
+IN
+estado inicial
+
+Preparar a carga
+para transporte
+
+IN
+ponto de decisão 1
+
+N
+ponto de decisão 2
+
+Aplicativo Transportador
+
+Verificar veículos
+disponíveis
+
+h
+estado final
+
+[há veículos disponíveis]
+
+Verificar rota e
+destinos
+
+Verificar tipo de veículo
+
+ponto de decisão 3
+
+Informar
+indisponibilidade
+
+[tipo de veículo é
+adequado ao tipo
+de carga]
+
+confirmar disponibilidade
+
+[o motorista atende
+à solicitação positivamente]
+
+calcular valor e tempo de espera
+
+Informar dados do caminhão, valor
+e tempo de espera
+
+26
+
+SISTEMAS DE INFORMAÇÃO
+
+2017
+enade EE
+
+Exame Nacional de Desempenho
+dos Estudantes
+
+Com base no diagrama apresentado, avalie as afirmações a seguir.
+
+Os serviços oferecidos por outros aplicativos, como mapas para o cálculo de rotas, por exemplo,
+poderão ser usados no desenvolvimento do aplicativo, mesmo que não tenham sido representados
+no diagrama.
+
+Os fluxos paralelos indicados nos pontos de decisão 2 e 3 levam a erros no funcionamento do
+aplicativo, uma vez que permitem a continuidade do processo mesmo que não haja rota, destino
+ou tipo de veículo adequado.
+
+O diagrama apresenta atividades desempenhadas pela "Empresa que precisa de transporte" e pelo
+"Transportador", no entanto, as atividades que precisarão ser modeladas no sistema restringem-se
+às desempenhadas pelo "Aplicativo".
+
+As ações "Informar indisponibilidade"” e "Confirmar disponibilidade" correspondem a
+funcionalidades distintas no sistema, visto que a primeira se relaciona à existência de tipo de
+veículo, rota e destino e a segunda se relaciona à agenda do transportador.
+
+É correto apenas o que se afirma em
+
+Q el.
+O lei.
+O Itein.
+O 4ileiv.
+O Illleiv.
+        Disciplina relacionada: ANÁLISE ORIENTADA POR OBJETOS (UML)
+        Ementa relacionada: Aborda a representação e modelagem de aplicações orientadas a objetos por intermédio da linguagem UML e seus diagramas, para a interação com o usuário no desenvolvimento dos sistemas de informação. BIBLIOGRAFIA COMPLEMENTAR: LEE, R. C; TEPFENHART, W. M. UML e C++: Guia prático de desenvolvimento orientado a objeto. Ed São Paulo: Pearson, 2001. Disponível na Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/40 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição. https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 RANGEL, P; JR, J, G, C. Sistemas Orientados a Objetos. Brasport, 2021. Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/197367 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 MORAIS, I. S. (org). ENGENHARIA DE SOFTWARE. São Paulo: Pearson Education do Brasil, 2017. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/184098
+        Carga horária: 40
+        Período: 3
+        Percentual de acerto (IES): 35,1
+        Percentual de acerto (UF): 31,6
+        Percentual de acerto (Região): 29,6
+        Percentual de acerto (Brasil): 30,2
+        Percentual de similaridade do cosseno: 83.74%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 84.37196748829263
+
+Ano: 2017
+    Questão 22:
+        Texto: A tendência atual de desenvolver aplicações que possam ser utilizadas em nuvem otimiza o
+desempenho de máquinas locais, munidas de poucos recursos computacionais, em uma rede
+e garante a possibilidade desses computadores utilizarem outros recursos computacionais de
+maior desempenho, bem como a inserção de novos hosts neste ambiente computacional, sem
+comprometimento do sistema como um todo.
+
+Esse cenário pressupõe a utilização de sistema operacional com
+
+O arquitetura monolítica.
+
+O arquiteturas em camadas.
+
+O arquitetura monocamadas.
+
+O arquiteturas cliente-servidor.
+
+O arquiteturas de máquinas virtuais.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 27
+
+2017
+EEN enade
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: INFRAESTRUTURA EM NUVEM
+        Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+        Carga horária: 40
+        Período: 7
+        Percentual de acerto (IES): 51,4
+        Percentual de acerto (UF): 42,3
+        Percentual de acerto (Região): 41,4
+        Percentual de acerto (Brasil): 41,7
+        Percentual de similaridade do cosseno: 89.02%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.00877415846273
+
+Ano: 2017
+    Questão 23:
+        Texto: No modelo de dados relacional, uma junção entre tabelas cria uma pseudo-tabela derivada de duas
+ou mais tabelas de acordo com os critérios especificados, similar às regras da teoria dos conjuntos.
+Nos conjuntos a seguir, as áreas hachuradas representam os resultados das consultas SQL (padrão) em
+que, id é uma chave primária e £fk uma chave estrangeira.
+
+Conjuntos Consultas SQL equivalentes
+
+SELECT * FROM Tabelal;
+
+Tabela SELECT * FROM Tabela2;
+
+Tabela2
+
+SELECT * FROM Tabelal t1;
+INNER JOIN Tabela2 t2
+ON tl.id = t2.fk;
+
+Tabelal Tabela2
+
+SELECT * FROM Tabelal t1;
+Tabelal Tabela2 LEFT JOIN Tabela2 t2
+ON tl.id = t2.£fk;
+
+Assinale a opção em que a declaração SQL é equivalente ao conjunto apresentado a seguir.
+
+Tabelal ) Tabela2
+
+O SELECT * FROM Tabelal tl JOIN Tabela2 t2 ON t1l.id = t2.fk;
+
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 ON tl.id = t2.fk WHERE
+t2.fk <> NULL;
+
+[C) SELECT * FROM Tabelal tl WHERE EXISTS (SELECT 1 FROM Tabela2 t2 WHERE
+t2.id = t1.£fk);
+
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 t2 ON t1l.id = t2.fk WHERE
+tl.id is NULL;
+
+E) SELECT * FROM Tabelal tl WHERE NOT EXISTS (SELECT 1 FROM Tabela2 t2
+WHERE t2.id = t1.fk);
+
+Área livre
+
+28 SISTEMAS DE INFORMAÇÃO
+
+enade
+
+Exame Nacional de Desempenho
+
+* R4 02017209 *
+
+dos Estudantes
+        Disciplina relacionada: Implementando Banco de Dados Relacionais
+        Ementa relacionada: Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL Operações de conjunto, Funções agregadas, Valores nulos, Sub-consultas aninhadas, Modificação dados no banco de dados (DML), Junção de consultas, Tipos de dados, Restrições de integridade, Definição de Tabelas (DDL), Autorização / Privilégios (DCL) e Consultas complexas Join. Exercícios práticos empregando os conceitos estudados, incluindo a criação e utilização de banco de dados relacional físico e programando com a linguagem SQL, e ferramentas de desenvolvimento em banco de dados no laboratório. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/1160 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+        Carga horária: 40
+        Período: 4
+        Percentual de acerto (IES): 51,4
+        Percentual de acerto (UF): 46,6
+        Percentual de acerto (Região): 46,3
+        Percentual de acerto (Brasil): 45,5
+        Percentual de similaridade do cosseno: 86.68%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.84092386804497
+
+Ano: 2017
+    Questão 24:
+        Texto: Em uma pesquisa de satisfação com notas de O a
+10, sendo O muito insatisfeito e 10 muito satisfeito,
+uma empresa construiu um quadro, mostrado a
+seguir, com o resumo das notas atribuídas pelos
+seus clientes aos serviços recebidos.
+
+QUANTIDADE
+
+NOTA DE CLIENTES
+0 0
+1 0
+2 0
+3 1
+4 2
+5 2
+6 2
+7 2
+8 2
+9 1
+10 0
+
+Considerando essa situação e as informações
+apresentadas, avalie as afirmações a seguir.
+|. A média das notas dos clientes é igual a 6,0.
+Il. A mediana das notas dos clientes é igual a 6,0.
+Ill. O desvio padrão populacional é menor do
+        Disciplina relacionada: PROBABILIDADE E ESTATÍSTICA
+        Ementa relacionada: Apresenta elementos e conceitos de estatística para tratamento de informações para pesquisas e levantamentos estatísticos, seja no ambiente organizacional ou na área de TI. Apresenta uma análise exploratória de dados: Estatística Descritiva população, amostra, medidas de posição e dispersão. Probabilidades: introdução. Modelos matemáticos: Binomial, Poisson e Normal. Inferência e decisões estatísticas: estimação de parâmetros, distribuições, intervalo de confiança e testes de hipóteses. Regressão linear e correlação. Índices. Projeto de pesquisa estatística na área de formação. BIBLIOGRAFIA COMPLEMENTAR: Castanheira, Nelson Pereira. Estatística aplicada a todos os níveis. Curitiba. Intersaberes, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/6078/pdf/0 BONAFINI, , F. C. Matemática e Estatística. Editora: Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/26526 WALPOLE, Ronald E. Probabilidade e estatística para engenharia e ciências. 8a. Ed. São Paulo: Pearson Prentice Hall. 2009. https://plataforma.bvirtual.com.br/Leitor/Publicacao/449/pdf/0 WINTERLE, Paulo. Vetores e geometria analítica. 2ª. ed. São Paulo: Pearson Education do Brasil. 2014. ISBN 978- 85-430-0239-2. https://plataforma.bvirtual.com.br/Leitor/Publicacao/5672/pdf/0 QUINSER, Aline Purcote. Probabilidade e Estatística. 1. ed. São Paulo: Intersaberes, 2022. https://plataforma.bvirtual.com.br/Acervo/Publicacao/200204
+        Carga horária: 80
+        Período: 3
+        Percentual de acerto (IES): 24,3
+        Percentual de acerto (UF): 28,4
+        Percentual de acerto (Região): 28,7
+        Percentual de acerto (Brasil): 27,5
+        Percentual de similaridade do cosseno: 81.29%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 83.14286021898312
+
+Ano: 2017
+    Questão 26:
+        Texto: Algumas linguagens de programação obedecem
+a uma ordem específica no que diz respeito à
+avaliação de operadores. A precedência dos
+operadores aritméticos, relacionais e booleanos
+é demonstrada na tabela a seguir, na qual
+os operadores ++ e --, pré ou pós-fixados,
+respectivamente, incrementam ou decrementam a
+variável, como no exemplo: variável x com valor 0,
+resultado de++x éigual a 1eode--x é igual
+a -l.
+
+Ordem de precedência
+(do maior para o menor) Operadores
+1 ++ e —- pós-fixados
+3 + e — unários, ++ e
+-- pré-fixados, !
+3 *, /,%
+4 + e -— binários
+5 <, >, <=, >=
+6 = |=
+7 &&
+8 [|
+
+SEBESTA, R. W. Conceitos de linguagens de programação.
+Porto Alegre: Bookman, 2011 (adaptado).
+
+Considerando essas informações e sabendo que
+as variáveis a, b e c têm, em determinado
+momento, os valores 1, 2 e 0, respectivamente,
+assinale a opção em que o resultado da
+expressão apresentada corresponde ao da
+        Disciplina relacionada: ALGORITMOS E PROGRAMAÇÃO
+        Ementa relacionada: Introdução ao conceito de algoritmo. Desenvolvimento e representações de algoritmos. Os conceitos de variáveis, tipos de dados, constantes, operadores aritméticos, expressões, atribuição, estruturas de controle (atribuição, sequência, seleção, repetição). BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 ASCENCIO, Ana Fernanda G.; ARAUJO, Graziela S. Estruturas de Dados: algoritmos, análise da complexidade e implementações em Java e C/C++. São Paulo: Pearson Prentice Hall, 2010. ISBN 978- 85-7605-881-6. (Biblioteca Virtual). https://plataforma.bvirtual.com.br/Leitor/Publicacao/1995/pdf/0 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 BARBOSA, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 PIANEZZER, Guilherme Augusto. Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0
+        Carga horária: 80
+        Período: 2
+        Percentual de acerto (IES): 51,4
+        Percentual de acerto (UF): 54,6
+        Percentual de acerto (Região): 49,7
+        Percentual de acerto (Brasil): 49,0
+        Percentual de similaridade do cosseno: 86.13%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.56266934922914
+
+Ano: 2017
+    Questão 27:
+        Texto: A forma como o conhecimento se apresenta
+pode ser classificada em tácita e explícita.
+O conhecimento tácito é desenvolvido pelas
+experiências e relacionamentos pessoais ou
+profissionais de um indivíduo, não é mensurável
+e é pessoal. O conhecimento explícito é a
+disseminação, aplicação, transmissão, de
+maneira formal, do conhecimento adquirido.
+TAKEUCHI, H.; NONAKA, |. Gestão do conhecimento.
+Porto Alegre: Bookman, 2008 (adaptado).
+Considerando o desenvolvimento de software e a
+utilização do conhecimento tácito e explícito, avalie
+as afirmações a seguir.
+
+Il. Durante as etapas de desenvolvimento
+do software, são utilizados tanto os
+conhecimentos pré existentes do indivíduo
+quanto os conhecimentos adquiridos
+durante o desenvolvimento.
+
+Il. O uso do conhecimento explícito restringe-se
+às fases de levantamento dos requisitos,
+quando o usuário indica sua necessidade
+e as funcionalidades requeridas para o
+desenvolvimento do software.
+
+Ill. O uso do conhecimento tácito restringe-se
+às fases de desenvolvimento, quando se
+emprega conhecimento de transformação
+da necessidade do usuário e características
+técnicas para produzir um sistema de
+informação.
+
+expressão-a * ++b- --c. É correto o que se afirma em
+Qa*:bH---c O |, apenas.
+O-b>arc O Ill, apenas.
+
+O--c/a * --b O lei, apenas.
+
+O ++c/--b * ++a O Ile ll, apenas.
+
+O -a + btt —- cc O Llell.
+
+Área livre Área livre
+
+30 SISTEMAS DE INFORMAÇÃO
+
+enade
+
+Exame Nacional de Desempenho
+
+* R4 02017 31 *
+
+dos Estudantes
+        Disciplina relacionada: PROJETO INTERDISCIPLINAR
+        Ementa relacionada: Concepção, projeto, desenvolvimento e implementação de projetos em equipes, com posterior documentação e apresentação pública, sob coordenação de um professor, com o objetivo de resolver situações- problema que envolvam os conhecimentos, procedimentos, atitudes, competências e habilidades adquiridos pelos estudantes até esta fase do curso e que poderão ser encontrados em sua futura profissão. BIBLIOGRAFIA COMPLEMENTAR Específica, de acordo com o tema escolhido.
+        Carga horária: 40
+        Período: 1
+        Percentual de acerto (IES): 43,2
+        Percentual de acerto (UF): 54,4
+        Percentual de acerto (Região): 50,8
+        Percentual de acerto (Brasil): 50,8
+        Percentual de similaridade do cosseno: 83.56%
+        Percentual de similaridade do modelo: 70.0
+        Percentual de similaridade média: 76.78222710865911
+
+Ano: 2017
+    Questão 28:
+        Texto: O guia PMBOK (Project Management Body
+of Knowledge) orienta a gestão de projetos
+considerando que processos devem ser executados
+nas diversas fases do gerenciamento, a saber:
+iniciação, planejamento, execução e encerramento.
+
+Em um determinado projeto, foi desenvolvido
+um sistema segundo o modelo de ciclo de vida
+em cascata, cujas atividades são realizadas
+sequencialmente e sem sobreposição. Na atividade
+de homologação do sistema, às vésperas da
+data planejada de sua implantação, um usuário
+identificou a inviabilidade de uma funcionalidade
+testada, pois alguns requisitos básicos não haviam
+sido considerados durante o levantamento dos
+requisitos. A alteração que se mostrou necessária
+atrasou o projeto em relação à linha de base do
+plano do projeto.
+
+Segundo o PMBOK, pode-se considerar que a falha
+foi originada na fase de
+
+O iniciação ou planejamento, em um processo da
+área de conhecimento gestão do tempo.
+
+planejamento ou execução, em um processo da
+área de conhecimento gestão do tempo.
+
+O execução ou encerramento, em um processo da
+área de conhecimento gestão do tempo.
+
+iniciação ou encerramento, em um processo da
+área de conhecimento gestão do escopo.
+
+planejamento ou execução, em um processo da
+área de conhecimento gestão do escopo.
+
+Área livre
+        Disciplina relacionada: Gerência de Projetos e análise de riscos
+        Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 48,6
+        Percentual de acerto (UF): 41,6
+        Percentual de acerto (Região): 41,5
+        Percentual de acerto (Brasil): 40,3
+        Percentual de similaridade do cosseno: 87.85%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.42668818777761
+
+Ano: 2017
+    Questão 30:
+        Texto: Para garantir a qualidade no desenvolvimento de
+software é indispensável definir processos para
+gerenciar mudanças no escopo do produto e
+configurações do software em desenvolvimento.
+Esses processos incluem atividades de planejamento,
+validação, verificação e gerenciamento de versões
+(mudanças ou releases).
+
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+
+|. O gerenciamento de mudanças acompanha
+a solicitação de alterações no software,
+define os custos, seus impactos e quando
+estas devem ser implementadas.
+
+Il. A revisão dos artefatos de software tem
+por objetivo armazenar a documentação
+em um repositório central.
+
+HI. A verificação de software tem o objetivo de
+controle de versões da documentação.
+
+Iv. A validação de software tem o objetivo de
+garantir que as necessidades e expectativas
+do cliente sejam atendidas.
+
+V. O gerenciamento de configuração controla
+a edição simultânea dos artefatos do
+software, mantém o controle das versões
+do software e recomenda a auditoria das
+configurações.
+
+É correto apenas o que se afirma em
+        Disciplina relacionada: Manutenção e qualidade de Software
+        Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 48,6
+        Percentual de acerto (UF): 58,1
+        Percentual de acerto (Região): 55,7
+        Percentual de acerto (Brasil): 54,6
+        Percentual de similaridade do cosseno: 89.98%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.48905797648828
+
+Ano: 2017
+    Questão 31:
+        Texto: A cloud computing (computação em nuvem) tem
+o objetivo de fornecer recursos de hardware e
+software sob demanda a partir de servidores
+interligados pela internet, seguindo o princípio
+da computação em grid (grade). Uma arquitetura
+em grid é descrita por meio das quatro camadas a
+seguir.
+e Rede: executa a comunicação e se utiliza da
+parte física;
+e Recursos: formada pelos servidores de
+armazenamento e/ou processamento;
+e Middleware: formada pelo software
+responsável pela troca de informações;
+e Ferramentas e aplicações:
+pelos aplicativos.
+
+representada
+
+De acordo com o texto, avalie as afirmações a
+seguir.
+
+Il. A camada de ferramentas e aplicações é
+responsável pela negociação das transações
+de dados no grid.
+
+Il. A camada middleware é responsável pela
+interconectividade e comunicação entre os
+membros do grid.
+
+ll. A camada de rede é reponsável pela
+concectividade entre os diferentes membros
+do grid.
+
+IV. A camada de recursos é responsável pela
+
+O piel. segurança dos dados nas aplicações do grid.
+O itelv. É correto apenas o que se afirma em
+LIVev.
+9 OQ lei.
+O Ipilev.
+O Ilivey O el.
+IVev.
+j O ltelv.
+Área livre O Lilely
+O ,illelv.
+Área livre
+32 SISTEMAS DE INFORMAÇÃO
+
+2017
+enade A
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: INFRAESTRUTURA EM NUVEM
+        Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+        Carga horária: 40
+        Período: 7
+        Percentual de acerto (IES): 54,1
+        Percentual de acerto (UF): 50,9
+        Percentual de acerto (Região): 49,2
+        Percentual de acerto (Brasil): 49,3
+        Percentual de similaridade do cosseno: 90.05%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.52512672741187
+
+Ano: 2017
+    Questão 32:
+        Texto: A lei Sarbanes-Oxley (SOX), publicada em agosto de 2002, após escândalos financeiros acontecidos em
+companhias americanas abertas nos Estados Unidos, objetiva proteger os investidores, no mercado de
+capital americano, de fraudes contábeis e financeiras. Entre os diversos controles que essa lei regula,
+destacam-se aqueles que devem garantir a integridade de informações contábeis e financeiras. Tal crise
+despertou a importância da temática Governança de Tecnologia da Informação (TI) para as organizações,
+de modo a serem considerados requisitos legais a troca de informações entre parceiros estratégicos das
+organizações e a formalização de uma política de segurança da informação, entre outros. Desta forma,
+cabe destacar que o objetivo da Governança de TI em uma organização é alinhar a TI aos requisitos
+de negócio, de modo a garantir a continuidade dos serviços prestados, bem como a minimização da
+exposição do negócio aos riscos de TI.
+
+FERNANDES, A.A.; ABREU, V. D. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+Rio de Janeiro: Brasport, 2012 (adaptado).
+
+A respeito desse contexto, avalie as afirmações a seguir.
+
+Il. O atendimento a marcos de regulação (compliance) implicam, para a área de TI, que os sistemas
+de informação transacionais de uma organização, geradores de fatos contábeis e financeiros,
+possibilitem o acesso e a emissão de relatórios de resultados.
+
+Il. A segurança da informação deve ser focada prioritariamente na proteção da infraestrutura de
+servidores que armazenam as informações transacionais, como contábeis e financeiras.
+
+HI. A integração tecnológica entre filiais de uma organização, ou seja, entre elos de uma cadeia de
+distribuição, bem como a gestão de clientes altamente sofisticados, ou seja, entre elementos que
+ultrapassam as fronteiras da organização, devem ser consideradas no momento de se alinhar a TI
+aos requisitos de negócio.
+
+IV. Em grandes organizações brasileiras e multinacionais, a implementação de “centro de serviços
+compartilhados” visa centralizar diversas áreas de negócio, assim como determinadas operações
+e/ou serviços de TI.
+
+É correto apenas o que se afirma em
+
+Ole.
+O ein.
+Olelv.
+O 4ileiv.
+O Illleiv.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 33
+
+* 0201734 +
+
+R 4
+
+enade”
+
+Exame Nacional de Desempenho
+
+dos Estudantes
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 27,0
+        Percentual de acerto (UF): 31,6
+        Percentual de acerto (Região): 31,0
+        Percentual de acerto (Brasil): 29,9
+        Percentual de similaridade do cosseno: 90.52%
+        Percentual de similaridade do modelo: 75.0
+        Percentual de similaridade média: 82.76046726877658
+
+Ano: 2017
+    Questão 33:
+        Texto: Tendo em vista que a informação está entre os
+bens mais importantes para uma organização, um
+dos fatores decisivos na definição de uma rede de
+computadores é a segurança da informação. Para
+garantir tal segurança e evitar qualquer desvio ou
+ação que possa modificar essas informações sem
+autorização ou, ainda, para protegê-las de ataques
+cibernéticos, são necessários planejamentos e
+estruturação da rede e de seus acessos.
+FONTES, E. Praticando a segurança da informação. 1. ed.
+São Paulo: BRASPORT, 2008 (adaptado).
+Considerando o texto, avalie as afirmações a seguir.
+
+Il. A proteção da informação em uma
+organização é competência restrita à
+área de tecnologia, que assume total
+responsabilidade sobre sua segurança.
+
+Il. A proteção da informação exige postura e
+comprometimento dos envolvidos na sua
+execução, portanto, deve ser tratada de
+forma profissional.
+
+ll. A presença de funcionários éticos na
+empresa elimina a necessidade de
+investimentos na área de segurança da
+informação.
+
+Iv. Os ataques cibernéticos são cada dia
+mais frequentes, por isso, a segurança da
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 81,1
+        Percentual de acerto (UF): 85,2
+        Percentual de acerto (Região): 82,5
+        Percentual de acerto (Brasil): 83,0
+        Percentual de similaridade do cosseno: 85.11%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.05344873514703
+
+Ano: 2017
+    Questão 34:
+        Texto: No contexto de arquitetura e organização de
+computadores, otermo cluster é usado para designar
+um grupo de computadores interconectados,
+trabalhando como um recurso de computação
+unificado. Cada computador pertencente ao cluster
+é usualmente denominado nó. Clusters costumam
+ser utilizados em ambientes corporativos, sendo
+particularmente adequados para aplicações
+baseadas em servidores.
+STALLINGS, W. Arquitetura e organização de computadores.
+8. ed. São Paulo: Prentice Hall, 2010 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+
+1. Uma falha em um nó de um cluster implica
+em perda total de serviço.
+
+Il. A interligação entre os nós de um cluster
+realiza-se por meio de um barramento de
+controle.
+
+HI. A escalabilidade de um cluster é maior do
+que a de um processador com múltiplos
+núcleos.
+
+IV. A relação custo/desempenho de um cluster
+é melhor do que a de uma única máquina de
+grande porte.
+
+É correto apenas o que se afirma em
+
+informação deve ser considerada essencial. | O lelll.
+É correto o que se afirma em O ltelv.
+O lelv.
+Q Il apenas.
+O Lilell.
+O lelll, apenas.
+O Lilelv.
+O Ile Iv, apenas. -
+O Lite Iv, apenas. Área livre
+O LiLlleiv.
+Área livre
+34 SISTEMAS DE INFORMAÇÃO
+
+2017
+enade A
+
+Exame Nacional de Desempenho
+dos Estudantes
+        Disciplina relacionada: ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+        Ementa relacionada: Histórico dos computadores e sua evolução; o estudo do funcionamento de um computador e de seus blocos principais (processador, memória, dispositivos de entrada e saída e barramentos). Conjunto de Instruções, Sistemas de Numeração e Aritmética Computacional. BIBLIOGRAFIA COMPLEMENTAR: Basso, Douglas Eduardo. Administração de Redes de Computadores. São Paulo. Ed Contentus, 2020. https://plataforma.bvirtual.com.br/Leitor/Publicacao/184850/pdf/0 Correa, Ana Grasielle Dionisio.Organização e arquitetura de computadores. São Paulo. Editora Pearson Edição: 1° (2017). https://plataforma.bvirtual.com.br/Leitor/Publicacao/124147/pdf/0 DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, D. R. Sistemas operacionais. 3.ed. São Paulo: Pearson Prentice Hall, 2005. ISBN 85-7605-011-0. https://plataforma.bvirtual.com.br/Leitor/Publicacao/315/pdf/0
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 35,1
+        Percentual de acerto (UF): 46,9
+        Percentual de acerto (Região): 43,8
+        Percentual de acerto (Brasil): 43,7
+        Percentual de similaridade do cosseno: 85.63%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.31512383352083
+
+Ano: 2017
+    Questão 35:
+        Texto: O coordenador geral de um comitê olímpico solicitou a implementação de um aplicativo que permita o
+registro dos recordes dos atletas à medida que forem sendo quebrados, mantendo a ordem cronológica
+dos acontecimentos, e possibilitando a leitura dos dados a partir dos mais recentes.
+
+Considerando os requisitos do aplicativo, a estrutura de dados mais adequada para a solução a ser
+implementada é
+
+(A)
+
+(B)
+
+o deque: tipo especial de lista encadeada, que permite a inserção e a remoção em qualquer das
+duas extremidades da fila e que deve possuir um nó com a informação (recorde) e dois apontadores,
+respectivamente, para os nós próximo e anterior.
+
+a fila: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o primeiro a ser
+lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e a remoção
+são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação (recorde) e
+um apontador, respectivamente, para o próximo nó.
+
+a pilha: tipo especial de lista encadeada, na qual o último objeto a ser inserido na fila é o primeiro a
+ser lido; nesse mecanismo, conhecido como estrutura LIFO (Last In — First Out), a inserção e a remoção
+são feitas na mesma extremidade e a estrutura deve possuir um nó com a informação (recorde) e um
+apontador para o próximo nó.
+
+a fila invertida: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o
+primeiro a ser lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e
+a remoção são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação
+(recorde) e um apontador, respectivamente, para o nó anterior.
+
+a lista circular: tipo especial de lista encadeada, na qual o último elemento tem como próximo o
+primeiro elemento da lista, formando um ciclo, não havendo diferença entre primeiro e último, e a
+estrutura deve possuir um nó com a informação (recorde) e um apontador, respectivamente, para o
+próximo nó.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 35
+
+* R4 02017 3 6%
+
+enade”
+
+Exame Nacional de Desempenho
+
+dos Estudantes
+
+QUESTIONÁRIO DE PERCEPÇÃO DA PROVA
+As questões abaixo visam levantar sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar.
+Assinale as alternativas correspondentes à sua opinião nos espaços apropriados do CARTÃO-RESPOSTA.
+        Disciplina relacionada: Estruturas de Dados e Programação
+        Ementa relacionada: Estrutura de dados e complexidade de algoritmos: Recursividade, Listas, filas, pilhas. Estruturas sequenciais e encadeadas. Métodos de pesquisa e ordenação de dados. Práticas e exercícios de Recursividade, Estruturas sequenciais e encadeadas, análise de algoritmos e métodos de pesquisa e ordenação. Práticas e exercícios de Estruturas sequenciais e encadeadas utilizando técnicas de programação. BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 Barbosa, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição .https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 Pianezzer, Guilherme Augusto.Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0 Stallings, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0
+        Carga horária: 80
+        Período: 3
+        Percentual de acerto (IES): 59,5
+        Percentual de acerto (UF): 59,9
+        Percentual de acerto (Região): 55,4
+        Percentual de acerto (Brasil): 54,8
+        Percentual de similaridade do cosseno: 86.51%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.75349303612568
+
+Ano: 2021
+    Questão 10:
+        Texto: Na atual conjuntura, as organizações são pressionadas a assumirem posicionamentos cada vez mais
+resilientes, responsivos e inovadores. Para tanto, elas devem se empenhar na assimilação dos estímulos
+do ambiente (mercados físicos ou virtuais), na avaliação de suas potencialidades e limitações, bem como
+na proposição de valor que atenda as expectativas e seus clientes.
+
+O gráfico a seguir apresenta os principais benefícios para as empresas em relação ao uso de redes sociais.
+
+Divulgação da
+sua marca
+
+53,0%
+
+Engajamento com
+a sua audiência
+
+Aumento de vendas e
+do número de clientes
+
+Aumento de tráfego
+no blog/site
+
+Outro
+
+0,0% 20,0% 40,0% 60,0%
+
+Terceira edição da Social Media Trends (2019). Disponível em: https://cdn2.hubspot.net/hubfs/
+Acesso em: 31 jul. 2021 (adaptado).
+
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I. As redes sociais apresentam-se como oportunidades para a área de inteligência organizacional e
+competitiva, demandando uma nova arquitetura de informação nas organizações.
+
+Il. A interação dinâmica dos usuários pelas redes sociais fornece subsídios não apenas de consumidores,
+mas também de colaboradores e pode ser utilizada para análise e tomada de decisão.
+
+Il. A adoção de redes sociais pelas empresas demonstra a sua capacidade técnica para adotar esses
+dados no planejamento estratégico e na arquitetura da informação.
+
+IV. A inteligência organizacional e competitiva está baseada na capacidade de as organizações
+monitorarem e analisarem as informações para que se adaptem e se desenvolvam de forma
+sustentável.
+
+É correto apenas o que se afirma em
+
+Olelv
+
+O ein.
+
+O lleiv.
+
+O ,lell.
+
+O Llelv.
+
+18 SISTEMAS DE INFORMAÇÃO
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+        Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 22,2
+        Percentual de acerto (UF): 46,2
+        Percentual de acerto (Região): 42,6
+        Percentual de acerto (Brasil): 42,6
+        Percentual de similaridade do cosseno: 86.48%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.74186337554411
+
+Ano: 2021
+    Questão 11:
+        Texto: Uma empresa deseja se reposicionar no mercado
+e, para isso, precisa ampliar sua capacidade
+de atendimento em serviços computacionais.
+Atualmente, os sistemas infraestruturais e de
+informação rodam sobre Sistemas Operacionais
+de diversas versões e distribuições, tanto na
+plataforma Windows, quanto na plataforma Linux.
+Uma consultoria especializada propôs a migração
+do parque de servidores físicos para servidores
+virtuais, adotando-se o tipo Il, ou seja, os Monitores
+de Máquina Virtual serão executados como
+processos dos Sistemas Operacionais hospedeiros,
+mantendo-se, a princípio, os Sistemas Operacionais
+do parque original como visitantes e adotando-se
+um único Sistema Operacional como hospedeiro.
+
+Sobre o modelo proposto pela consultoria, avalie as
+afirmações a seguir.
+
+Il. Os Sistemas Operacionais visitantes serão
+infectados se algum malware se instalar no
+Sistema Operacional hospedeiro.
+
+Il. A empresa, após a virtualização, economizará
+recursos financeiros na aquisição de
+servidores e obterá mais eficiência no
+consumo de recursos.
+
+ll. A empresa não poderá manter a mesma
+estrutura de Sistemas Operacionais físicos
+no sistema virtualizado do tipo Il.
+
+Iv. A recuperação do Sistema Operacional
+virtual é mais simples e rápida, quando
+comparada ao sistema físico.
+
+É correto apenas o que se afirma em
+
+O lei.
+O ltein.
+O ltelv.
+O ielv.
+O Llleiv.
+
+Área livre
+
+2720211 9%
+        Disciplina relacionada: Sistemas Operacionais
+        Ementa relacionada: Sistemas Operacionais: Definição, Tipos, Estruturas de Sistemas, Processos, Espaços de Endereçamento, Arquivos, Entrada e Saída, Processos e threads, Impasses. Práticas da organização de computadores, tipos de componentes, instalação e configuração de sistemas operacionais: Linux, Windows. BIBLIOGRAFIA COMPLEMENTAR: Basso, Douglas Eduardo. Administração de Redes de Computadores. São Paulo. Ed Contentus, 2020. https://plataforma.bvirtual.com.br/Leitor/Publicacao/184850/pdf/0 Correa, Ana Grasielle Dionisio. Organização e arquitetura de computadores. São Paulo. Editora Pearson Edição: 1° (2017). https://plataforma.bvirtual.com.br/Leitor/Publicacao/124147/pdf/0 DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, D. R. Sistemas operacionais. 3.ed. São Paulo: Pearson Prentice Hall, 2005. ISBN 85-7605-011-0. https://plataforma.bvirtual.com.br/Leitor/Publicacao/315/pdf/0 Stallings, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0 TANENBAUM, Andrew S. Sistemas Operacionais Modernos. 2ª ed. São Paulo: Pearson Prentice Hall, 2003. https://plataforma.bvirtual.com.br/Leitor/Publicacao/395/pdf/0
+        Carga horária: 40
+        Período: 4
+        Percentual de acerto (IES): 50,0
+        Percentual de acerto (UF): 51,7
+        Percentual de acerto (Região): 50,8
+        Percentual de acerto (Brasil): 51,5
+        Percentual de similaridade do cosseno: 85.93%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.46532922154722
+
+Ano: 2021
+    Questão 12:
+        Texto: A segurança dos dados refere-se às medidas
+que garantem confidencialidade, integridade
+e disponibilidade dos sistemas de informação
+e dos dados neles armazenados. É importante
+compreender que a segurança dos dados exige
+uma abordagem ampla em toda a empresa.
+Com base no exposto, não é possível proteger os
+dados se eles não forem resguardados por todos
+os processos que os circundam. A segurança dos
+dados depende de fatores como arquitetura dos
+sistemas, sistemas de hardware e software, rede
+e seus dispositivos, como também de pessoas
+internas e externas à organização.
+
+ROB, P.; CORONEL, C. Sistemas de banco de dados: projeto,
+
+Implementação e Gerenciamento. São Paulo:
+
+Cengage Learning, 2011, p. 652 (adaptado).
+
+Considerando a segurança em bancos de dados,
+
+avalie as asserções a seguir e a relação proposta
+entre elas.
+
+Il. A confidencialidade dos dados é o que
+garante que eles estejam protegidos contra
+acesso não autorizado e em caso de acesso
+autorizado, que sejam utilizados apenas
+para a finalidade designada.
+
+PORQUE
+
+Il. As permissões de acesso às informações
+contidas nos bancos de dados dependem
+também da disponibilidade de acesso aos
+dados, sempre que solicitado por usuários
+autorizados para finalidades autorizadas.
+
+A respeito dessas asserções, assinale a opção correta.
+
+O As asserções le Il são proposições verdadeiras,
+ea Il é uma justificativa correta da |.
+
+O As asserções le Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+
+O A asserção | é proposição verdadeira, e a Il é
+uma proposição falsa.
+
+O A asserção | é proposição falsa, e a Il é uma
+proposição verdadeira.
+
+O As asserções le Il são proposições falsas.
+
+SISTEMAS DE INFORMAÇÃO 19
+
+2720212 0%
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 11,1
+        Percentual de acerto (UF): 28,4
+        Percentual de acerto (Região): 25,9
+        Percentual de acerto (Brasil): 26,2
+        Percentual de similaridade do cosseno: 83.89%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 84.44554462446007
+
+Ano: 2021
+    Questão 13:
+        Texto: A qualidade do processo de desenvolvimento
+de software incide de forma direta sobre a
+qualidade do produto a ser entregue. Ressalta-se
+que a elaboração do software demanda a
+execução de um projeto. Com isso, o processo de
+desenvolvimento de software envolve criatividade
+e nesse contexto, as habilidades e a experiência de
+cada desenvolvedor influenciam significativamente
+os resultados. Além disso, fatores externos,
+tais como novas tecnologias ou pressões para a
+antecipação de prazo para liberação de um release
+também podem interferir na qualidade do produto,
+independente do processo de software utilizado.
+
+SOMMERVILLE, |. Engenharia de Software. 8. ed. São Paulo:
+Pearson, 2007, p. 425 (adaptado).
+
+Considerando o contexto da qualidade de
+processo e de produto de software, avalie as
+afirmações a seguir.
+
+Il. O gerenciamento de qualidade de processo
+e seu contínuo aprimoramento contribuem
+para a produção de um software com
+poucos defeitos.
+
+HW. A definição de padrões de processo,
+determinando os parâmetros para a
+realização das revisões de software, são
+fundamentais para gerenciar a qualidade do
+processo de software.
+
+ll. O “monitoramento do processo de
+desenvolvimento de software é essencial
+para garantir que os padrões adotados
+estejam sendo devidamente seguidos.
+
+Iv. O gerente de projetos deve definir
+processos que estabeleçam meios para
+atingir a qualidade de software, além de
+criar ou adotar métricas que permitam à
+organização avaliar se o software possui o
+nível de qualidade necessário.
+
+É correto apenas o que se afirma em
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Manutenção e qualidade de Software
+        Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 16,7
+        Percentual de acerto (UF): 44,4
+        Percentual de acerto (Região): 44,4
+        Percentual de acerto (Brasil): 43,9
+        Percentual de similaridade do cosseno: 91.88%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 88.43797427462567
+
+Ano: 2021
+    Questão 14:
+        Texto: Projetado para ser compreensível, acessível, flexível
+e integrado a outras abordagens, como a ágil,
+o modelo Capability Maturity Model Integration
+CMMiI-Dev (Desenvolvimento) ajuda as organizações
+a entender seu nível atual de capacidade e
+desempenho, oferecendo um guia para otimizar os
+resultados dos negócios.
+
+Disponível em: https://cmmiinstitute.com/cmmi/intro.
+Acesso em: 27 jun. 2020 (adaptado).
+
+O modelo MPS para software (MPS-SW) tem
+como base os requisitos de processos definidos
+nos modelos de melhoria de processo e atende
+a necessidade de implantar os princípios de
+engenharia de software de forma adequada
+ao contexto das empresas, estando em
+conformidade com as principais abordagens
+internacionais para definição, avaliação e
+melhoria de processos de software.
+
+Disponível em: http://softex.br/mpsbr/modelos/tmpssw.
+Acesso em: 27 jun. 2020 (adaptado).
+
+Em relação aos modelos CMMI-Dev e MPS-SW,
+avalie as afirmações a seguir.
+
+Il. Os dois modelos são organizados em
+chamados níveis de maturidade, porém a
+quantidade de níveis no modelo MPS-SW é
+maior do que a apresentada no CMMI-Dev.
+
+Il. Os dois modelos levam em consideração
+a Engenharia de Software para a
+implementação dos processos em todos os
+níveis, sem a necessidade de alinhamento
+com o planejamento estratégico da empresa.
+
+Il. Quanto maior o nível de maturidade de
+uma organização, mais avançada é sua
+orientação estratégica e sua capacidade de
+aplicação dos processos relacionados, o que
+possivelmente implica melhores resultados.
+
+É correto o que se afirma em
+
+Q lei. O 1, apenas.
+Olelv. O Ii, apenas.
+Olelv. O le ll, apenas
+O Lille. O lle il, apenas.
+O ILilelv. O le.
+
+20 SISTEMAS DE INFORMAÇÃO
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+2720212 1%
+        Disciplina relacionada: Manutenção e qualidade de Software
+        Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 72,2
+        Percentual de acerto (UF): 59,8
+        Percentual de acerto (Região): 57,4
+        Percentual de acerto (Brasil): 58,5
+        Percentual de similaridade do cosseno: 86.90%
+        Percentual de similaridade do modelo: 70.0
+        Percentual de similaridade média: 78.45190838669515
+
+Ano: 2021
+    Questão 15:
+        Texto: Os projetos são um esforço temporário empreendido para criar um produto, serviço ou resultado único.
+
+PMI. Guia PMBOK: Um Guia para o Conjunto de Conhecimentos em Gerenciamento de Projetos.
+6. ed. Pennsylvania: PMI, 2017 (adaptado).
+
+Com base na definição de projetos apresentada, avalie as afirmações a seguir.
+
+Il. Acriação de um produto único, ou um item do produto, pode representar um possível projeto.
+Il. Umserviço único, ou uma capacidade de realizar um serviço, pode representar um possível projeto.
+HI. A operação de um software, mesmo que repetidas vezes, pode representar um possível projeto.
+
+IV. Uma combinação única de um ou mais produtos, serviços ou resultados, pode representar um
+possível projeto.
+
+É correto apenas o que se afirma em
+
+O ein.
+O ein.
+O lelv.
+O úielv.
+O Llleiv.
+        Disciplina relacionada: Gerência de Projetos e análise de riscos
+        Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 66,7
+        Percentual de acerto (UF): 63,5
+        Percentual de acerto (Região): 62,1
+        Percentual de acerto (Brasil): 62,0
+        Percentual de similaridade do cosseno: 87.44%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.21983366191446
+
+Ano: 2021
+    Questão 16:
+        Texto: A computação em nuvem é caracterizada por um conjunto de recursos virtualizados e disponibilizados
+via internet. Os recursos podem ser configurados dinamicamente, fornecendo a base para a escalabilidade
+sob demanda. O vínculo com a computação em nuvem geralmente se baseia em um modelo de
+pagamento por uso, no qual as garantias são oferecidas por meio de SLAs (acordos de nível de serviço)
+personalizados. Os provedores de computação em nuvem oferecem essas camadas aos clientes por
+meio de várias interfaces (incluindo ferramentas de linha de comando, ambientes de programação e
+interfaces Web), levando a três tipos diferentes de serviços:
+
+e Infraestrutura como Serviço (laaS);
+e Plataforma como Serviço (PaasS);
+
+e Software como Serviço (SaaS).
+
+VAQUERO, L. M. et al. A Break in the Clouds: Towards a Cloud Definition.
+ACM SIGCOMM Computer Communication Review, 2009 (adaptado).
+
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+
+Il. O uso do laaS é recomendado para pequenas e médias empresas cujo crescimento da
+infraestrutura não acompanha sua expansão, bem como para empresas que possuem demandas
+oscilantes, como lojas virtuais.
+
+Il. O uso de lasS e SaasS não é recomendado quando há restrições legais quanto ao armazenamento
+ou terceirização dos dados, como ocorre muitas vezes em empresas e autarquias públicas.
+
+HI. O uso de SaaS é recomendado para grandes empresas que estão dispostas a investir em grande
+escala na compra de licenças.
+
+IV. O uso de Paas não é indicado para empresas que possuem um time próprio de desenvolvedores.
+
+É correto apenas o que se afirma em
+
+O lel.
+
+O ein.
+O Ilelv.
+O ielv.
+O Ip lllelv.
+
+SISTEMAS DE INFORMAÇÃO 21
+|
+
+AM enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: INFRAESTRUTURA EM NUVEM
+        Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+        Carga horária: 40
+        Período: 7
+        Percentual de acerto (IES): 22,2
+        Percentual de acerto (UF): 20,7
+        Percentual de acerto (Região): 19,7
+        Percentual de acerto (Brasil): 20,4
+        Percentual de similaridade do cosseno: 91.81%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 88.40702603227076
+
+Ano: 2021
+    Questão 19:
+        Texto: O gerenciamento de serviços de Tl tem como objetivo a entrega e o suporte de serviços de Tl focados nas
+necessidades dos clientes e alinhados à estratégia de negócio da organização. Esta visa alcançar custos e
+desempenho desejados pelo cliente, por meio de acordos de nível de serviço estabelecidos internamente
+entre a área de Tl e as demais áreas envolvidas na cadeia do serviço.
+
+MAGALHÃES, L. et al. Gerenciamento de Serviços de TI na Prática: Uma abordagem com base na ITIL.
+São Paulo: Novatec, 2007 (adaptado).
+
+A partir das informações do texto, avalie as asserções a seguir e a relação proposta entre elas.
+
+Il. O acordo de nível de serviço é um contrato firmado entre o provedor de serviços de Tl e
+seus clientes, que incluem detalhes de quais serviços serão fornecidos.
+
+PORQUE
+
+Il. Os serviços devem ser monitorados quanto ao desempenho e disponibilidade no nível em que for
+acordado entre as partes.
+
+A respeito dessas asserções, assinale a opção correta.
+
+O Asasserções le Il são proposições verdadeiras, e a Il é uma justificativa correta da |.
+
+O As asserções le Il são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é uma proposição falsa.
+
+O A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+
+O Asasserções le Il são proposições falsas.
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 50,0
+        Percentual de acerto (UF): 59,8
+        Percentual de acerto (Região): 58,0
+        Percentual de acerto (Brasil): 57,9
+        Percentual de similaridade do cosseno: 85.65%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.32299072243867
+
+Ano: 2021
+    Questão 20:
+        Texto: O paradigma de programação em lógica constitui-se como um processo de definição de relações em que
+se constroem fatos e regras sobre os elementos e suas relações. A ativação dos programas acontece por
+meio de consultas (ou perguntas) sobre o relacionamento definido. Ao construir-se um banco de dados
+referente a uma família, inicia-se pelas relações de parentesco, tais como:
+pai (joão, maria) convencionado que joão é pai de maria
+mãe (maria, luiz) convencionado que maria é mãe de luiz
+As cláusulas, sem condições, definem os fatos sobre o domínio do problema. De outra maneira,
+é possível definir as regras que são cláusulas com condições:
+avô materno (joão, luiz) :-pai (joão,maria), mãe (maria, luiz)
+Nesse contexto, avalie as afirmações a seguir.
+
+Il. Aconsultamãe (maria, X) retorna verdadeiro conforme identificado na cláusula.
+
+Il. A conclusão joão é avô materno de luiz é identificada como cabeça da cláusula.
+
+ll. Aregra irmão (X,Y):-pai(Z, X), pai(Z, Y) é uma regra genérica que define irmãos
+por parte de pai.
+
+Iv. Aregraavo materno (X,Y):-pai (Z,X), mae(Y,Z) é uma regra genérica para o programa.
+É correto apenas o que se afirma em
+
+Ole.
+O ein.
+O lleiv.
+O ielv.
+O Lilelv.
+
+SISTEMAS DE INFORMAÇÃO 23
+
+A enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: RACIOCÍNIO ANALÍTICO E LÓGICA MATEMÁTICA
+        Ementa relacionada: Técnicas diferenciadas para resolução de problemas e a construção do raciocínio analítico. Resolução de problemas de raciocínio, com argumentações do tipo mentiras e verdades, crescendo para as questões de proposições lógicas. Construção de tabela-verdade. BIBLIOGRAFIA COMPLEMENTAR: LEITE, Álvaro Emilio. Raciocínio Lógico e Lógica Quantitativa. Intersaberes. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/54340 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 WUINSLER, Aline Purcote. Raciocínio lógico, crítico e analítico contábil. Curitiba Contentus, 2020. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/186717/ SOUZA, Jeferson Afonso Lopes de. Lógica Matemática. São Paulo: Pearson, 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/150814 SOUZA, Sérgio Guedes de. Lógica de Programação Algorítmica. Ed São Paulo: Pearson, 2014. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22146 )
+        Carga horária: 80
+        Período: 2
+        Percentual de acerto (IES): 27,8
+        Percentual de acerto (UF): 42,4
+        Percentual de acerto (Região): 36,2
+        Percentual de acerto (Brasil): 36,9
+        Percentual de similaridade do cosseno: 87.11%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.05528444304198
+
+Ano: 2021
+    Questão 22:
+        Texto: A gerência de projetos é utilizada por diversas áreas e atualmente se faz presente também em várias
+frentes da computação, como no desenvolvimento e implantação de softwares e hardwares. O gerente
+de projetos desenvolve um papel fundamental na condução de um projeto, resolvendo conflitos,
+administrando interesses das partes e acompanhando a evolução do projeto.
+PMI. Guia PMBOK: Um Guia para o Conjunto de Conhecimentos em Gerenciamento de Projetos.
+6. ed. Pennsylvania: PMI, 2017 (adaptado).
+Com base no texto apresentado, avalie as afirmações a seguir.
+
+Il. O termo de abertura do projeto define, além das partes interessadas, os limites do projeto e do
+orçamento, quando necessário.
+
+IH. Na Estrutura Analítica do Projeto (EAP), o gerente de projetos define os pacotes de entregas bem
+como a responsabilidade pelas mesmas.
+
+Ill. É papel do gerente de projetos trocar membros da equipe de projeto, caso seja necessário,
+para garantir o andamento do projeto e prazos de entrega.
+
+IV. Após a separação do projeto em pacotes de entregáveis, é criada a matriz de responsabilidade,
+por meio da qual os integrantes do projeto são separados de acordo com os entregáveis e
+respectivos prazos.
+
+É correto apenas o que se afirma em
+
+Q el.
+O ltelv.
+O Iltelv.
+O ,lell.
+O Llleiv.
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 25
+|
+
+* R2 720212 6 *
+        Disciplina relacionada: Gerência de Projetos e análise de riscos
+        Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+        Carga horária: 40
+        Período: 8
+        Percentual de acerto (IES): 27,8
+        Percentual de acerto (UF): 41,8
+        Percentual de acerto (Região): 38,8
+        Percentual de acerto (Brasil): 38,9
+        Percentual de similaridade do cosseno: 89.42%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.20763071695552
+
+Ano: 2021
+    Questão 23:
+        Texto: enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+É possível recuperar conjuntos de dados de forma organizada e que façam sentido para gerar informações.
+Nesse contexto, a recuperação de informações gravadas nos bancos de dados ocorre por meio de
+consultas SQL - Structured Query Language (linguagem de consulta de dados estruturados).
+
+Considere o seguinte conjunto de tabelas de banco de dados:
+
+MOTORISTA
+IDMOTO NOME TELEFONE IDADE
+
+22 José 8888-0000 45
+
+29 Maria 9999-0000 33
+
+31 Antônio Null 35
+
+32 Carlos 3333-9999 16
+
+58 Josefina 3333-0000 60
+
+64 Marilda 3333-1111 26
+
+CARRO
+IDCARRO NOMECARRO COR
+101 Ônix Vermelho
+102 Gol Vermelho
+103 Civic Verde
+104 Pálio Azul
+RESERVAS
+IDMOTO IDCARRO DIA
+22 101 07/08/2020
+22 102 07/08/2020
+22 103 09/08/2020
+22 104 10/08/2020
+31 102 10/08/2020
+31 103 11/08/2020
+64 101 13/08/2020
+26 SISTEMAS DE INFORMAÇÃO
+
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+* R2 720212 7%
+
+Com base nas informações apresentadas, qual das seguintes consultas traria o nome dos motoristas que
+
+reservaram os carros vermelhos?
+
+Q SELECT M.NOME
+FROM MOTORISTA M
+WHERE M. IDMOTO IN
+(SELECT R.I
+
+DMOTO
+
+FROM RESERVAS R
+
+WHERE R.ID
+(SELECT C
+
+CARRO NOT IN
+- IDCARRO
+
+FROM CARRO C
+
+WHERE C
+
+[B) SELECT M.NOME
+FROM MOTORISTA M
+WHERE M. IDMOTO IN
+(SELECT R.I
+
+«COR = “Vermelho”))
+
+DMOTO
+
+FROM RESERVAS R
+
+WHERE R.ID
+(SELECT C
+
+CARRO IN
+- IDCARRO
+
+FROM CARRO C
+
+WHERE C
+
+(C) SELECT M.NOME
+FROM MOTORISTA M
+WHERE M. IDMOTO IN
+(SELECT R.I
+
+«COR = “Vermelho”))
+
+DMOTO
+
+FROM RESERVAS R
+WHERE R.IDCARRO NOT IN
+
+(SELECT C
+
+- IDCARRO
+
+FROM CARRO C
+
+WHERE C
+
+(D) SELECT M.NOME
+FROM MOTORISTA M
+
+«COR = “Vermelho”))
+
+WHERE M.IDMOTO NOT IN
+
+(SELECT R.lI
+
+DMOTO
+
+FROM RESERVAS R
+
+WHERE R.ID
+(SELECT €
+
+WHERE C
+
+(E) SELECT M.NOME
+FROM MARINHEIROS
+
+WHERE M.IDMARI NO
+(SELECT R.l
+
+CARRO NOT IN
+- IDCARRO
+
+FROM CARRO C
+
+«COR = “Vermelho”))
+
+M
+T IN
+DMARI
+
+FROM RESERVAS R
+
+WHERE R.ID
+(SELECT B
+
+WHERE B
+
+BARCO ANY
+. IDBARCO
+
+FROM BARCO B
+
+«COR = “Vermelho”))
+
+SISTEMAS DE INFORMAÇÃO
+|
+
+27
+
+MV enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Implementando Banco de Dados Relacionais
+        Ementa relacionada: Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL Operações de conjunto, Funções agregadas, Valores nulos, Sub-consultas aninhadas, Modificação dados no banco de dados (DML), Junção de consultas, Tipos de dados, Restrições de integridade, Definição de Tabelas (DDL), Autorização / Privilégios (DCL) e Consultas complexas Join. Exercícios práticos empregando os conceitos estudados, incluindo a criação e utilização de banco de dados relacional físico e programando com a linguagem SQL, e ferramentas de desenvolvimento em banco de dados no laboratório. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/1160 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+        Carga horária: 40
+        Período: 4
+        Percentual de acerto (IES): 88,9
+        Percentual de acerto (UF): 86,5
+        Percentual de acerto (Região): 82,3
+        Percentual de acerto (Brasil): 83,1
+        Percentual de similaridade do cosseno: 87.10%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.05063863170687
+
+Ano: 2021
+    Questão 24:
+        Texto: A pesquisa operacional é tanto ciência quanto arte. Ciência por causa das técnicas matemáticas envolvidas
+
+(objetivo) e arte porque o sucesso das fases que precedem e sucedem a solução do modelo matemático
+
+depende muito da criatividade e experiência dos profissionais de pesquisa operacional (subjetivo).
+ARENALES, M. et al. Pesquisa Operacional. Rio de Janeiro: Elsevier, 2011, p. 5 (adaptado).
+
+Suponha que uma empresa de montagem de computadores fabrica três tipos básicos de dispositivos:
+desktops, notebooks e netbooks. A produção da empresa ocorre em suas duas fábricas, uma na zona
+franca de Manaus e outra na região Sul do país. De acordo com a última venda realizada, a empresa
+precisa entregar 16 mil desktops, 6 mil notebooks e 28 mil netbooks. A fábrica de Manaus tem
+custo de produção diário de R$150.000,00 para produção de 8 mil desktops, mil notebooks e 2 mil
+netbooks. O custo de produção diário da fábrica da região Sul é de R$ 210.000,00 para a produção de
+2 mil desktops, mil notebooks e 7 mil netbooks.
+
+Considerando as informações apresentadas, escolha o modelo que representa a situação descrita e
+determina a quantidade de dias que cada uma das fábricas deverá operar para atender à demanda do
+pedido ao menor custo.
+
+Q Min , = 150.000 x+ 210.000y
+Sujeito a :
+Ri = 8x+2y <= 16
+
+R2= x+y <=6
+R3= 2x+7y <=28
+[B) Min , = 150.000 x+ 210.000y
+
+Sujeito a :
+
+Ri = 8x+2y >= 16
+R2= x+y >= 6
+R3= 2x+7y >=28
+
+IC) Min , = 150.000 x+ 210.000y
+Sujeito a :
+RI = 8x+y = 16
+R2= x+y =—6
+R3= 2x+7y >=28
+
+[D) Min , = 150.000 x+ 210.000y
+Sujeito a :
+Ri = 8x-2y <=16
+R2=x-y <=6
+R3= 2x-7y <=28
+e Min , = 150.000 x+ 210.000 y
+Sujeito a :
+Ri = 8x-2y <=16
+R2= x+y <=6
+R3= 2x-7y <=28
+
+28 SISTEMAS DE INFORMAÇÃO
+|
+
+enade2021 O
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Pesquisa Operacional
+        Ementa relacionada: Apresenta ao aluno, processos para modelar e estudar estratégias de resolução de problemas de produção, custos, com uma abordagem matemática através de conceitos de Pesquisa Operacional definição e formulação de problemas de Programação Linear, Solução Gráfica, Método Simplex e Dualidade Linear. BIBLIOGRAFIA COMPLEMENTAR: FERNANDES, Luana Fonseca Duarte. Geometria analítica. Curitiba: Intersaberes. 2016. ISBN 978-85-5972-020-4. https://plataforma.bvirtual.com.br/Leitor/Publicacao/37362/pdf/0 BARABOSA, M. A.; ZANARDINI, R. A. D. Iniciação à pesquisa operacional no ambiente de gestão. Editora Intersaberes. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/179913 LEAL NETO, J. DE S. Pesquisa Operacional. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191644 FOGLIATTI, M. C.; MATTOS, N. M. C. Teoria de Filas. Editora Interciência. 2006. https://plataforma.bvirtual.com.br/Acervo/Publicacao/123784 BOAVENTURA NETO, P. O.; JURKIEWICZ, S. Grafos: introdução e prática. Editora Blucher. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/177879
+        Carga horária: 40
+        Período: 4
+        Percentual de acerto (IES): 27,8
+        Percentual de acerto (UF): 30,2
+        Percentual de acerto (Região): 27,8
+        Percentual de acerto (Brasil): 27,1
+        Percentual de similaridade do cosseno: 88.29%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.64437335095744
+
+Ano: 2021
+    Questão 25:
+        Texto: Em conformidade com a ABNT NBR ISO/IEC 27002 (2013), segurança da informação envolve práticas
+e processos de proteção e salvaguarda dos ativos da informação e de tecnologias da informação.
+Está amparada pelos preceitos de integridade, disponibilidade e confidencialidade. Segurança da
+informação também pode ser entendida como uma área do conhecimento dedicada à proteção de ativos
+da informação contra acessos não autorizados e alterações indevidas. Além disso, ela aborda a proteção
+da informação contra vários tipos de ameaças, implicando na possível continuidade do negócio, na
+minimização do risco e na maximização do retorno sobre os investimentos e oportunidades.
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR ISO/IEC 27002. Rio de Janeiro: ABNT, 2013 (adaptado).
+
+Considerando o texto apresentado, avalie as afirmações a seguir.
+
+Il. A integridade da informação tem como objetivo garantir a acessibilidade da informação.
+
+IH. A disponibilidade garante que os autorizados a acessarem a informação possam fazê-lo
+sempre que necessário.
+
+HI. A confidencialidade da informação é a garantia de que somente pessoas autorizadas terão acesso
+a ela, protegendo-a de acordo com o grau de sigilo do seu conteúdo.
+
+IV. A legalidade é a garantia de que a informação foi produzida em conformidade com a lei.
+
+V. A autenticidade é a garantia de que em um processo de comunicação os remetentes sejam
+exatamente quem dizem ser.
+
+É correto apenas o que se afirma em
+
+O el.
+
+O lei.
+
+O Ibilev.
+O il IVev.
+O Ip, IVev.
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 29
+|
+
+AM enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 61,1
+        Percentual de acerto (UF): 62,1
+        Percentual de acerto (Região): 57,9
+        Percentual de acerto (Brasil): 58,5
+        Percentual de similaridade do cosseno: 88.60%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 86.79817620661234
+
+Ano: 2021
+    Questão 26:
+        Texto: A expressão Big Data refere-se a um conjunto de técnicas e ferramentas para o armazenamento e
+manipulação de conjuntos de dados muito grandes. Tecnologias tradicionais, como bancos de dados
+relacionais e ferramentas de processamento sequencial, não suportam o vasto volume de dados.
+O Big Data possui quatro características marcantes: volume, variedade, velocidade e veracidade.
+
+Disponível em: https://sol.sbc.org.br/livros/index.php/sbc/catalog/. Acesso em: 13 jun. 2020 (adaptado).
+
+Considerando as informações apresentadas e o conjunto de características marcantes do Big Data,
+avalie as afirmações a seguir.
+
+|. Em relação ao volume, a quantidade de dados gerados e coletados em diversos tipos de aplicações
+está aumentando exponencialmente, e as ferramentas de Big Data devem ser capazes de lidar
+apropriadamente com esse desafio.
+
+Il. No que diz respeito à variedade, os dados podem ser coletados de diferentes fontes e com
+diferentes formatos e estruturas e se dividem em dados estruturados, como os dados dos
+cidadãos; dados semiestruturados, como os dados de sensores; e dados não-estruturados,
+como os de câmeras de vídeo de segurança.
+
+Il. Quanto à velocidade, o processamento de dados deve ocorrer em condições de alta latência,
+pois eles podem se tornar inúteis, como, por exemplo, dados coletados de sensores de veículos,
+a análise de redes sociais e as informações sobre o trânsito da cidade.
+
+IV. No que se refere à veracidade, como os dados são coletados de múltiplas fontes, é importante
+garantir sua qualidade, utilizando fontes confiáveis e consistentes, a fim de evitar erros e
+comprometer as análises.
+
+É correto apenas o que se afirma em
+
+Olelv
+
+O ein.
+O lleiv.
+O ,lell.
+O Llelv.
+        Disciplina relacionada: BUSINESS INTELIGENCE and ANALYTICS
+        Ementa relacionada: Apresenta os fundamentos de Business Intelligence(BI) e os componentes de uma solução de BI. Diferencia ambiente transacional de ambiente de suporte a decisão. Apresenta as etapas de construção de um projeto de Data Warehouse bem como a modelagem Multidimensional de dados adequada para sistemas de suporte a decisão. Apresenta as operações OLAP. Implementa uma solução prática de BI. Apresenta ferramentas de destaque no mercado para acesso e análise das informações geradas pela solução de BI. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/271 VALDATI, A. DE B. Inteligência Artificial – IA. Editora Contentus. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) AVIS, M. C. Marketing Digital baseado em dados. Editora Intersaberes. 2021. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/187445
+        Carga horária: 80
+        Período: 7
+        Percentual de acerto (IES): 61,1
+        Percentual de acerto (UF): 60,8
+        Percentual de acerto (Região): 56,5
+        Percentual de acerto (Brasil): 56,1
+        Percentual de similaridade do cosseno: 84.28%
+        Percentual de similaridade do modelo: 70.0
+        Percentual de similaridade média: 77.14169629301354
+
+Ano: 2021
+    Questão 28:
+        Texto: A Governança de Tecnologia da Informação pode auxiliar nos processos estratégicos das organizações,
+alinhando controles da TI, como segurança da informação e integração tecnológica, com controles
+de gestão, como marco de regulação e ambiente de negócio, conforme ilustra a figura a seguir.
+
+Ti como prestadora de
+
+, Integração Tecnológica
+serviços
+
+Governança de
+Ambientes de negócios TI
+
+Segurança da
+informação
+
+Marcos de regulação
+
+Figura | — Fatores motivadores da Governança de Tecnologia da Informação (TI)
+
+FERNANDES, A. A; ABREU, V. F. Implantando a Governança de TI: da Estratégia à Gestão de Processos e Serviço.
+Rio de Janeiro: Brasport, 2014 (adaptado).
+
+Considerando o texto e a figura apresentados, assinale a opção correta.
+OQ Asegurança da informação é definida pela Política da Segurança da Informação, não levando em conta
+cargos e salários.
+
+O ATI como prestadora de serviços representa os profissionais de informática, não levando em conta
+hardware e software.
+
+O A integração tecnológica é definida pela integração entre hardware e software, não levando em conta
+seus fabricantes.
+
+O Os marcos de regulação são definidos pelos conselhos das organizações, não levando em conta as
+regulações políticas.
+
+O 0 ambiente de negócio é definido por clientes mais exigentes e conscientes, não levando em conta as
+políticas internas.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 31
+
+AM enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 50,0
+        Percentual de acerto (UF): 58,3
+        Percentual de acerto (Região): 55,9
+        Percentual de acerto (Brasil): 56,5
+        Percentual de similaridade do cosseno: 89.53%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.26728485186436
+
+Ano: 2021
+    Questão 29:
+        Texto: Suponha que, como projetista de dados, você precisa desenvolver um sistema para uma clínica médica.
+Após consultar todos os envolvidos, foi proposto o seguinte modelo de entidades e relacionamentos.
+
+CodigoEspecialidade Descrição CodigoMedico
+
+(LN) (1,1)
+ESPECIALIDADE MEDICO
+
+Bairro
+
+odigoFuncionario
+
+Atende
+aend CPF
+FUNCIONARIO
+(LN)
+CONSULTA CS
+Cargo
+
+'nformaçoesMedidas
+
+CodigoConvenio) CHomeconvenia> (1,1)
+Marca
+CONVENIO (1,1) Possui <a
+
+(0,N)
+
+(0,N)
+
+CodigoPaciente
+
+TocalTrabalho)
+CodigoConveniado
+
+(0,N)
+
+>
+
+(1,1)
+
+DEPENDENTE
+
+NomeDependente
+
+TipoRelacao
+
+DataNascimento
+
+ALVES, W. P. Banco de dados. São Paulo: Érica, 2014.
+
+32 SISTEMAS DE INFORMAÇÃO
+|
+
+enade2021 E
+
+Exame Nacional de Desempenho dos Estudantes
+
+Considerando esse contexto e o modelo de entidades e relacionamentos proposto, avalie as afirmações
+a seguir.
+
+I. A restrição de participação da entidade MÉDICO é total, pois um médico precisa atuar em pelo
+menos uma área da medicina; com relação à ESPECIALIDADE, a restrição é parcial, pois pode haver
+especialidade sem nenhum médico associado.
+
+Il. A restrição de participação de PACIENTE é parcial, pois não é obrigatório o PACIENTE ter
+dependentes; já para DEPENDENTE a restrição é total, uma vez que é preciso ter um responsável
+(PACIENTE) cadastrado no banco de dados.
+
+HI. A restrição de participação de PACIENTE é parcial, já que se pode ter o cadastro do paciente no
+banco de dados sem ter consulta marcada; já para CONSULTA a restrição é total, uma vez que uma
+consulta somente pode ser agendada para um paciente cadastrado.
+
+IV. A razão da cardinalidade é 1:N, pois um paciente pode marcar várias consultas, em dias e horários
+diferentes, e a consulta (em data e horário específicos) pode ser agendada para vários pacientes.
+
+É correto apenas o que se afirma em
+
+O lei.
+O ltelv.
+O Iltelv.
+O ,lell.
+O Llelv.
+        Disciplina relacionada: MODELAGEM DE BANCO DE DADOS
+        Ementa relacionada: Apresenta os conceitos de Banco de Dados e Sistema Gerenciador de Banco de Dados. Demonstra as fases de projeto de um Banco de Dados: a construção do Modelo Conceitual usando Diagrama de Entidade e Relacionamento, a construção do Modelo Lógico usando Diagrama de Tabelas Relacionais e a normalização de esquemas utilizando as formas normais. Fundamentos do Modelo Físico de Banco de dados Relacional, Introdução a Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL. BIBLIOGRAFIA COMPLEMENTAR: GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/6289 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127
+        Carga horária: 40
+        Período: 3
+        Percentual de acerto (IES): 38,9
+        Percentual de acerto (UF): 46,5
+        Percentual de acerto (Região): 43,6
+        Percentual de acerto (Brasil): 44,2
+        Percentual de similaridade do cosseno: 85.79%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.39347509881256
+
+Ano: 2021
+    Questão 30:
+        Texto: Um Sistema de Informação Gerencial (SIG) representa um conjunto de recursos dentre os quais é possível
+citar os sistemas: de apoio à decisão, de especialistas, de informação executiva, de gestão de pessoas
+e de gestão de projetos, os quais permitem que a instituição funcione de forma eficiente. Os sistemas
+especialistas são sistemas inteligentes que armazenam e processam o conhecimento adquirido de
+profissionais especializados em uma determinada área do conhecimento.
+SPIRLANDELLI, L. P. et al. Sistemas especialistas: um estudo de caso com o EXPERT SINTA. Revista Eletrônica de Sistema
+de Informação e Gestão Tecnológica. Franca, v. 1, n. 1, p. 1-16, 2011 (adaptado).
+Considerando o uso de um componente para um sistema especialista voltado para diagnósticos médicos,
+assinale a opção correta.
+
+OQ Base de conhecimento é o componente que mantém os axiomas gramaticais e léxicos definidos
+pelos especialistas.
+
+Base de informações estratégicas é o componente que possui as técnicas de navegação nas bases
+de conhecimento.
+
+Base de regras é o componente que traduz todas as informações externas que estejam em interação
+com o sistema especialista.
+
+Analisador semântico é o componente que obtém e armazena informações sobre diagnósticos por
+meio de um reconhecimento de regras gramaticais.
+
+v O OO
+
+Motor de inferência é o componente que possui um conjunto de heurísticas adotadas para a resolução
+de problemas na execução das tarefas.
+
+SISTEMAS DE INFORMAÇÃO 33
+|
+
+AM enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+        Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 5,6
+        Percentual de acerto (UF): 16,5
+        Percentual de acerto (Região): 15,3
+        Percentual de acerto (Brasil): 16,2
+        Percentual de similaridade do cosseno: 86.31%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.65284245865303
+
+Ano: 2021
+    Questão 31:
+        Texto: Uma das finalidades da Governança de Tecnologia da Informação (TI) é monitorar o cumprimento
+das regras de negócio estabelecidas por meio da estruturação de um catálogo de serviços, o qual
+possibilita que os serviços prestados pela gestão da TI sejam conhecidos por todos. A Governança de
+TI descreve como as pessoas envolvidas em governança em uma organização deverão considerar a TI
+no monitoramento, controle e supervisão de suas funções precípuas. Nessas condições, é reconhecido
+que a implantação ágil da Governança de TI passa pela utilização de modelos de referência, os quais
+propiciam uma governança assertiva.
+
+MORAES, E. A. P.; MARIANO, S. R. H. M. Uma releitura dos principais modelos de governança de tecnologia da informação.
+Revista das Faculdades Integradas Vianna Júnior. Juiz de Fora, v. 1, n. 1, p. 201-217, 2010. Disponível em:
+http://www.viannasapiens.com.br/revista/article/download/22/13/. Acesso em: 11 jun. 2020 (adaptado).
+
+Em geral, os modelos de referências (ou frameworks) de governança de TI são prescritivos, diferenciando-se
+pelo tipo de enfoque e pelo nível de cobertura que oferecem à organização de TI.
+
+Nesse contexto, avalie em quais modelos a instância de governança de TI define o modo como é feito o
+direcionamento, a avaliação e o monitoramento das instâncias de gestão de TI.
+
+I. Norma ISO/IEC 38500.
+
+Il. CobiT (Control Objectives for Information and related Technology).
+
+HI. BSC (Balanced Scorecard).
+
+Iv. CMMI (Capability Maturity Model Integration).
+São modelos corretos apenas os apresentados em
+
+Ole.
+O elv.
+O lei.
+O 4ileiv.
+O Ip lllelv.
+
+Área livre
+
+34 SISTEMAS DE INFORMAÇÃO
+|
+
+enade2021 E
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: Governança de TI e Segurança da Informação
+        Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+        Carga horária: 80
+        Período: 8
+        Percentual de acerto (IES): 33,3
+        Percentual de acerto (UF): 27,8
+        Percentual de acerto (Região): 27,8
+        Percentual de acerto (Brasil): 27,7
+        Percentual de similaridade do cosseno: 90.34%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 87.67121229896051
+
+Ano: 2021
+    Questão 32:
+        Texto: No desenvolvimento do módulo de integração do sistema do SAMU com os sistemas de hospitais,
+um analista gerou o seguinte diagrama de sequência.
+
+EM sd E
+' '
+
+-— 1: solicitarLeito() > wm-2: procurarLeitos()
+
+:hospitalA :hospitalB
+
+3: verificarTodos()
+
+5: procurarVaga()
+
+Com relação ao diagrama apresentado, avalie as asserções a seguir e a relação proposta entre elas.
+Il. As chamadas 4: procurarVaga() e 5: procurarVaga() são feitas simultaneamente (em paralelo) pela
+API para minimizar o tempo de espera da chamada 2: procurarLeitos().
+PORQUE
+IH. As chamadas 10: definirvaga() e 12: definirVaga() são feitas simultaneamente (em paralelo),
+mas a espera do retorno é feita em sequência, o que aumentará o tempo de resposta.
+
+A respeito dessas asserções, assinale a opção correta.
+
+O Asasserções le Il são proposições verdadeiras, e a Il é uma justificativa correta da |.
+
+O As asserções le Il são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é uma proposição falsa.
+
+O A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+
+O Asasserções le Il são proposições falsas.
+
+SISTEMAS DE INFORMAÇÃO 35
+|
+
+AM enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+        Disciplina relacionada: ANÁLISE ORIENTADA POR OBJETOS (UML)
+        Ementa relacionada: Aborda a representação e modelagem de aplicações orientadas a objetos por intermédio da linguagem UML e seus diagramas, para a interação com o usuário no desenvolvimento dos sistemas de informação. BIBLIOGRAFIA COMPLEMENTAR: LEE, R. C; TEPFENHART, W. M. UML e C++: Guia prático de desenvolvimento orientado a objeto. Ed São Paulo: Pearson, 2001. Disponível na Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/40 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição. https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 RANGEL, P; JR, J, G, C. Sistemas Orientados a Objetos. Brasport, 2021. Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/197367 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 MORAIS, I. S. (org). ENGENHARIA DE SOFTWARE. São Paulo: Pearson Education do Brasil, 2017. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/184098
+        Carga horária: 40
+        Período: 3
+        Percentual de acerto (IES): 22,2
+        Percentual de acerto (UF): 37,2
+        Percentual de acerto (Região): 36,3
+        Percentual de acerto (Brasil): 35,5
+        Percentual de similaridade do cosseno: 81.83%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 83.41269155273596
+
+Ano: 2021
+    Questão 34:
+        Texto: MO enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+Com o crescimento da população urbana, problemas de infraestrutura e de acesso limitado a recursos
+em diversas cidades ao redor do mundo afetam negativamente a vida de bilhões de pessoas. Tornar as
+cidades mais inteligentes pode ajudar a melhorar os serviços urbanos, aumentando a qualidade de vida
+de seus cidadãos. As Tecnologias da Informação e Comunicação (TIC) propiciam meios fundamentais
+para viabilizar essa mudança, entretanto, ainda existem desafios científicos e técnicos significativos que
+necessitam ser enfrentados antes que essas plataformas possam ser amplamente utilizadas.
+
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+
+Uma forma de enfrentar o problema da infraestrutura é tornar as cidades mais inteligentes e,
+para atingir esse objetivo, as TIC podem ser empregadas para coletar e analisar uma grande
+quantidade de informações geradas por diversas fontes de dados da cidade, como, por exemplo:
+redes de sensores, sistemas de trânsito e dispositivos dos cidadãos.
+
+Uma dificuldade que ocorre na maioria das aplicações de cidades inteligentes é que, geralmente,
+os sistemas são direcionados a um problema específico e são desenvolvidos desde o início com
+pouco reuso de software e sem a comunicação entre eles, o que gera maior trabalho e dificuldade
+na criação de aplicações que necessitem de dados e serviços de diversos domínios.
+
+Entre os maiores desafios no desenvolvimento de aplicações para cidades inteligentes estão
+a garantia da privacidade e da segurança dos cidadãos, o gerenciamento do armazenamento
+e do processamento de grandes quantidades de dados, além da heterogeneidade de
+dispositivos existentes.
+
+A Internet das Coisas (Internet of Things - loT) faz uso de tecnologias e protocolos proprietários
+para conexão de objetos do cotidiano, tais como lâmpadas para iluminação pública, semáforos
+de trânsito e sensores de qualidade de água e ar, sendo que os objetos devem ser identificados
+com um nome único, sua posição e estado conhecidos, e devem ser acessíveis por meio de
+redes móveis.
+
+É correto apenas o que se afirma em
+
+Ole.
+
+O ein.
+
+O Iltelv.
+
+O ,lell.
+
+O Llelv.
+
+Área livre
+
+38 SISTEMAS DE INFORMAÇÃO
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+2720213 9%
+        Disciplina relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+        Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+        Carga horária: 40
+        Período: 2
+        Percentual de acerto (IES): 50,0
+        Percentual de acerto (UF): 37,5
+        Percentual de acerto (Região): 35,0
+        Percentual de acerto (Brasil): 35,6
+        Percentual de similaridade do cosseno: 85.90%
+        Percentual de similaridade do modelo: 75.0
+        Percentual de similaridade média: 80.4477640090314
+
+Ano: 2021
+    Questão 35:
+        Texto: A legibilidade diz respeito às características que possam dificultar ou facilitar a leitura das informações
+textuais, como, por exemplo: brilho do caractere, contraste letra/fundo, tamanho da fonte, espaçamento
+entre palavras, espaçamento entre linhas, espaçamento de parágrafos, comprimento da linha,
+entre outros.
+
+CYBIS, W.; BETIOL, A. H.; FAUST, R. Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações.
+2. ed. São Paulo: Novatec Editora Ltda. 2010 (adaptado).
+
+Acerca das características e importância da legibilidade, avalie as afirmações a seguir.
+
+|. Em uma interface legível, o texto longo deve ser lido rapidamente e deve aparecer em letras
+maiúsculas e minúsculas misturadas naturalmente, com maiúsculas no início de frases e
+nomes próprios.
+
+Il. Os textos longos devem ser apresentados em linhas com menor comprimento possível e com o
+mínimo contraste efetivo com o fundo.
+
+HI. O texto que deve ser lido por idosos ou pessoas com problemas de visão aparece em letras claras
+sobre um fundo escuro, pois, para esse público, o fundo brilhante pode ofuscar completamente
+as letras escuras.
+
+É correto o que se afirma em
+
+Q Il, apenas.
+
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Llell.
+
+Área livre
+
+SISTEMAS DE INFORMAÇÃO 39
+|
+
+* R2 720214 0%
+
+enade2021
+
+Exame Nacional de Desempenho dos Estudantes
+
+QUESTIONÁRIO DE PERCEPÇÃO DA PROVA
+
+As questões abaixo visam conhecer sua opinião sobre a qualidade e a adequação da prova que você acabou de realizar.
+Assinale as alternativas correspondentes à sua opinião nos espaços apropriados do CARTÃO-RESPOSTA.
+        Disciplina relacionada: Interface Humano-computador
+        Ementa relacionada: Introduz conceitos fundamentais da interação entre o usuário humano e o computador. Apresenta usabilidade e métodos para avaliação da usabilidade. Apresenta a interação do usuário com sistemas hipermídia. Trata sobre questões de Acessibilidade na interação homem-computador. BIBLIOGRAFIA COMPLEMENTAR ULBRICHT, Valeria Ribas; FADEL, Luciane Maria; BATISTA; Claudia Regina. Design para acessibilidade e inclusão. São Paulo, SP: Editora Blucher. 2017. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/163640/pdf/0 FERREIRA, Marcelo Bellon. Prototipagem e testes de usabilidade. 1. ed. Curitiba, PR:Contentus, 2020. [Recurso eletrônico]. ISBN: 9786557452370. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/183505/pdf/0 COSTA, Margarete Terezinha de Andrade Costa. Tecnologia assistiva. 1. Ed. Curitiba, PR:Contentus, 2020. ISBN: 9786557450253. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/182444/pdf/0 CARDOSO, Leandro da Conceição. Design Digital. 1. Ed. Curitiba, PR: Intersaberes, 2021. ISBN: 9786555179330. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/187436/pdf/0 ABRAHÃO, Júlia Issy; MONTEDO, Uiara Bandineli; MASCIA. Fausto Leopoldo; FLEURY, André Leme; SANTOS, Hebert dos. Ergonomia e usabilidade: em ambiente virtual de aprendizagem. 1. Ed. São Paulo, SP: Editora Blucher, 2013. ISBN: 9788521206392. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/164692/pdf/0
+        Carga horária: 40
+        Período: 1
+        Percentual de acerto (IES): 38,9
+        Percentual de acerto (UF): 38,6
+        Percentual de acerto (Região): 36,8
+        Percentual de acerto (Brasil): 36,3
+        Percentual de similaridade do cosseno: 85.53%
+        Percentual de similaridade do modelo: 85.0
+        Percentual de similaridade média: 85.26412968929137
+

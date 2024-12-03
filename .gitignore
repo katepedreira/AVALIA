@@ -1,0 +1,5 @@
+# Ignorar o banco de dados do Chroma
+chroma_db/
+
+# Ignorar arquivos SQLite
+*.sqlite3

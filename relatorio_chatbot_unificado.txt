@@ -1,0 +1,518 @@
+Relatório por Questão de Conteúdo Específico:
+
+Ano: 2017
+Questão 11:
+    Resumo: O diagrama Entidade-Relacionamento (DER) modela um sistema de informação para um museu, onde uma Obra é criada por um único Artista, que pode criar várias Obras. As entidades Pintura e Escultura são especializações da entidade Obra. Um Artista domina várias Técnicas, e uma Técnica pode ser dominada por diversos Artistas. A questão avalia o mapeamento do Modelo Conceitual para um Modelo Lógico Relacional, considerando a criação de tabelas associativas e a estrutura das tabelas relacionadas às entidades e atributos mencionados.
+    Disciplina Relacionada: MODELAGEM DE BANCO DE DADOS
+    Ementa relacionada: Apresenta os conceitos de Banco de Dados e Sistema Gerenciador de Banco de Dados. Demonstra as fases de projeto de um Banco de Dados: a construção do Modelo Conceitual usando Diagrama de Entidade e Relacionamento, a construção do Modelo Lógico usando Diagrama de Tabelas Relacionais e a normalização de esquemas utilizando as formas normais. Fundamentos do Modelo Físico de Banco de dados Relacional, Introdução a Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL. BIBLIOGRAFIA COMPLEMENTAR: GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/6289 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127
+    Período: 3
+    Carga Horária: 40
+    Percentual de Acerto (IES): 18,9
+    Percentual de Acerto (UF): 23,3
+    Percentual de Acerto (Região): 21,8
+    Percentual de Acerto (Brasil): 21,6
+
+Ano: 2017
+Questão 12:
+    Resumo: A questão aborda o conceito de TI Verde, que se refere à utilização eficiente dos recursos organizacionais e à redução dos impactos ambientais causados pela Tecnologia da Informação. Destaca a importância da conscientização do usuário em práticas sustentáveis, a eficiência energética em data centers verdes e discute um equívoco sobre a governança de ações relacionadas ao lixo eletrônico.
+    Disciplina Relacionada: Direito, Ética e Sustentabilidade Ambiental
+    Ementa relacionada: A universidade do fenômeno jurídico. A sociedade e suas instituições. O Estado: formas, fundamentos e elementos. O Direito: Fontes, sujeitos, objeto e classificação. Humanismo e Direitos Humanos. Ética como ponto de contato entre as ciências. Tipos de ética: Reflexos sobre o agir. A ética na economia, na política, na ecologia e nas relações de gênero. Ética profissional. Aspectos jurídicos e profissionais da computação. Mercado de trabalho e análise do ciclo de vida dos produtos, com base na sustentabilidade. BIBLIOGRAFIA COMPLEMENTAR: NIARADI, G. Direito Empresarial para Administradores. Editora Pearson. 2019. https://plataforma.bvirtual.com.br/Acervo/Publicacao/177790 DIAS, R. Sociologia e Ética profissional. Editora Pearson. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/22111 TESSARO, A. B. Tecnologias, Sistemas e Materiais ecoeficientes. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/185817 BOFF, L. Sustentabilidade: o que é e o que não não é. Editora Vozes. 2016. https://plataforma.bvirtual.com.br/Acervo/Publicacao/149503 QUINTEROS, C. C. G. Gestão da Sustentabiliade e Responsabilidade Social. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/193057
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 45,9
+    Percentual de Acerto (UF): 53,5
+    Percentual de Acerto (Região): 53,3
+    Percentual de Acerto (Brasil): 52,0
+
+Ano: 2017
+Questão 13:
+    Resumo: A questão apresenta uma figura que ilustra a aplicação de tecnologias da informação nos processos de negócios, destacando a estrutura de cadeia de valor. Ela sugere que a intranet pode melhorar a comunicação e a colaboração na coordenação administrativa, que portais de e-commerce podem otimizar recursos ao criar mercados online para fornecedores, e que a vantagem competitiva é aumentada quando a área de Tecnologia da Informação está alinhada ao negócio. Os alunos devem avaliar a veracidade de várias afirmações relacionadas a esses pontos.
+    Disciplina Relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+    Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 27,0
+    Percentual de Acerto (UF): 39,4
+    Percentual de Acerto (Região): 39,7
+    Percentual de Acerto (Brasil): 39,3
+
+Ano: 2017
+Questão 15:
+    Resumo: A questão aborda a evolução dos sistemas de informação, que passaram de ferramentas para execução de tarefas rotineiras a instrumentos essenciais no campo dos negócios, impulsionados pelas Tecnologias da Informação e Comunicação (TIC). Nesse contexto, surge a Arquitetura de Sistemas de Informação (ASI), que inicialmente focava na arquitetura de dados, mas evoluiu para uma abordagem mais abrangente, incorporando perspectivas de negócio, visão organizacional e a evolução das TIC e dos usuários.
+    Disciplina Relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+    Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 54,1
+    Percentual de Acerto (UF): 51,3
+    Percentual de Acerto (Região): 52,7
+    Percentual de Acerto (Brasil): 50,1
+
+Ano: 2017
+Questão 16:
+    Resumo: O processo de design de interação envolve quatro atividades principais: identificar necessidades e requisitos, desenvolver designs alternativos, construir versões interativas e avaliar. A questão analisa afirmações sobre a complementaridade do design de interação com modelos de desenvolvimento de software, a participação do usuário, a inspiração em designs de outros profissionais e a importância da prototipação para feedback do usuário. Além disso, menciona a finalidade da Arquitetura de Sistemas de Informação (ASI) em inter-relacionar dados e suportar aplicações.
+    Disciplina Relacionada: Interface Humano-computador
+    Ementa relacionada: Introduz conceitos fundamentais da interação entre o usuário humano e o computador. Apresenta usabilidade e métodos para avaliação da usabilidade. Apresenta a interação do usuário com sistemas hipermídia. Trata sobre questões de Acessibilidade na interação homem-computador. BIBLIOGRAFIA COMPLEMENTAR ULBRICHT, Valeria Ribas; FADEL, Luciane Maria; BATISTA; Claudia Regina. Design para acessibilidade e inclusão. São Paulo, SP: Editora Blucher. 2017. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/163640/pdf/0 FERREIRA, Marcelo Bellon. Prototipagem e testes de usabilidade. 1. ed. Curitiba, PR:Contentus, 2020. [Recurso eletrônico]. ISBN: 9786557452370. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/183505/pdf/0 COSTA, Margarete Terezinha de Andrade Costa. Tecnologia assistiva. 1. Ed. Curitiba, PR:Contentus, 2020. ISBN: 9786557450253. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/182444/pdf/0 CARDOSO, Leandro da Conceição. Design Digital. 1. Ed. Curitiba, PR: Intersaberes, 2021. ISBN: 9786555179330. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/187436/pdf/0 ABRAHÃO, Júlia Issy; MONTEDO, Uiara Bandineli; MASCIA. Fausto Leopoldo; FLEURY, André Leme; SANTOS, Hebert dos. Ergonomia e usabilidade: em ambiente virtual de aprendizagem. 1. Ed. São Paulo, SP: Editora Blucher, 2013. ISBN: 9788521206392. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/164692/pdf/0
+    Período: 1
+    Carga Horária: 40
+    Percentual de Acerto (IES): 64,9
+    Percentual de Acerto (UF): 75,0
+    Percentual de Acerto (Região): 72,1
+    Percentual de Acerto (Brasil): 72,2
+
+Ano: 2017
+Questão 17:
+    Resumo: Uma equipe de projeto desenvolveu um aplicativo mobile para gestão de frotas de caminhões entre janeiro e junho de 2017, utilizando o modelo de ciclo de vida em cascata, onde as atividades foram realizadas sequencialmente. Ao final do projeto, muitos defeitos foram identificados, elevando o risco de entrega de um produto com problemas. Para evitar essa situação em futuros projetos, a equipe decidiu implementar ações que distribuíssem o esforço de tratamento de defeitos ao longo do tempo, reduzindo a quantidade de defeitos não tratados próximo à entrega.
+    Disciplina Relacionada: Verificação, validação e Testes de Software
+    Ementa relacionada: Analisa questões que envolvem a homologação dos produtos de software no que se refere à validação e testes do produto quanto as questões de manutenção. Apresenta a importância de aplicar formalismos na verificação, validação e teste de software abordando conceitos de Teste e Inspeção de software. Teste de unidade. Complexidade Ciclomática. Análise do Valor Limite. Teste de Cobertura. Teste Funcional. Particionamento em Classes de Equivalência. Métricas de Complexidade OO. Teste em Banco de Dados. Teste de Desempenho. Teste com Objetos Mock. Teste de Mutação. Teste em API. Teste de Integração. Controle de Defeitos. Teste de frontend. BIBLIOGRAFIA COMPLEMENTAR: SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 PFLEEGER. S. L. Engenharia de Software: teoria e prática - 2ª edição. São Paulo: Pretice Hall, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/476 VASQUEZ, C. E. SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193 PAGE-JONES. M. Fundamentos do Desenho Orientado a Objeto com UML. São Paulo: Makron Books, 2001. https://plataforma.bvirtual.com.br/Leitor/Publicacao/33/ DEITEL, P; DEITEL, H. C como programar. 8. ed. São Paulo: Pearson Education, 2011 (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/2660/pdf/0
+    Período: 6
+    Carga Horária: 80
+    Percentual de Acerto (IES): 78,4
+    Percentual de Acerto (UF): 76,7
+    Percentual de Acerto (Região): 74,9
+    Percentual de Acerto (Brasil): 73,8
+
+Ano: 2017
+Questão 18:
+    Resumo: Uma empresa iniciou a implantação de um ERP para aumentar a produtividade, substituindo um sistema desenvolvido internamente que não atendia mais às suas necessidades. Para isso, foi escolhido um módulo WMS, que foi parametrizado e customizado conforme as necessidades identificadas no planejamento do projeto. A questão envolve a avaliação de duas asserções sobre customização e parametrização de sistemas ERP.
+    Disciplina Relacionada: GESTÃO POR PROCESSOS
+    Ementa relacionada: Visão estratégica de negócio com foco na modelagem, documentação e otimização dos Processos de Negócios. Mapeamento e modelagem de processos de negócio, incluindo ferramentas, notações visuais, frameworks e softwares de mercado. Gestão de processos de negócio visando o entendimento dos processos de negócio e o papel e atuação do profissional da Tecnologia da Informação no atendimento às diversas áreas de uma organização, mas principalmente na implementação de soluções tecnológicas integradas. Gestão da engenharia de requisitos de software com um olhar nos processos de negócio da empresa e suas necessidades. BIBLIOGRAFIA COMPLEMENTAR USIRONO, Carlos H. Escritório de Processos: BPMO (Business Process Management Office). Rio de Janeiro: Editora Brasport, 2015. ISBN 9788574527642. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/160396 PERLINGEIRO, C. A. G. Engenharia de Processos. Editora Blucher. 2005. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/164113 LAJE JUNIOR, M. Mapeamento de Processos de Gestão Empresarial. Editora Intersaberes. 2016. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/42174 STADLER, A. Gestão de processos com suporte em tecnologia da informação. Editora Intersaberes. 2013. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/9973 ALBERTIN, M. R.; PONTES, H. L. J. Gestão de processos e técnicas de produção enxuta. Editora Intersaberes. 2016. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Acervo/Publicacao/37470
+    Período: 1
+    Carga Horária: 40
+    Percentual de Acerto (IES): 45,9
+    Percentual de Acerto (UF): 42,6
+    Percentual de Acerto (Região): 39,4
+    Percentual de Acerto (Brasil): 37,8
+
+Ano: 2017
+Questão 19:
+    Resumo: A questão aborda a teoria dos grafos, apresentando um grafo G que representa as capitais de cinco cidades brasileiras e suas conexões por voos. Os vértices do grafo são as capitais (Porto Alegre, Curitiba, São Paulo, Rio de Janeiro e Brasília) e as arestas representam as possíveis rotas de voo entre elas. A partir dessas informações, são feitas afirmações sobre a adjacência, valência e incidência dos vértices, além do comprimento de conexões específicas.
+    Disciplina Relacionada: Estruturas de Dados Avançadas
+    Ementa relacionada: Introduz a Teoria dos Grafos e suas representações em ambiente computacional. Análise de algoritmos, análise assintótica e notação O. Apresenta estudos de diversos problemas, que têm nos grafos, uma forma abstrata de representação. Implementação de árvores, grafos, funções de hashing e ordenação. BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 BARBOSA, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 DEITEL. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição .https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 PIANEZZER, Guilherme Augusto.Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0 STALLINGS, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0
+    Período: 7
+    Carga Horária: 40
+    Percentual de Acerto (IES): 43,2
+    Percentual de Acerto (UF): 50,4
+    Percentual de Acerto (Região): 47,4
+    Percentual de Acerto (Brasil): 46,0
+
+Ano: 2017
+Questão 20:
+    Resumo: Em uma seleção para uma vaga de programador, o setor de recursos humanos definiu três sentenças essenciais relacionadas à experiência do candidato com as linguagens Python e Java, além de sua experiência geral como programador. A proposição composta S foi formulada a partir dessas sentenças para avaliar os candidatos.
+    Disciplina Relacionada: RACIOCÍNIO ANALÍTICO E LÓGICA MATEMÁTICA
+    Ementa relacionada: Técnicas diferenciadas para resolução de problemas e a construção do raciocínio analítico. Resolução de problemas de raciocínio, com argumentações do tipo mentiras e verdades, crescendo para as questões de proposições lógicas. Construção de tabela-verdade. BIBLIOGRAFIA COMPLEMENTAR: LEITE, Álvaro Emilio. Raciocínio Lógico e Lógica Quantitativa. Intersaberes. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/54340 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 WUINSLER, Aline Purcote. Raciocínio lógico, crítico e analítico contábil. Curitiba Contentus, 2020. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/186717/ SOUZA, Jeferson Afonso Lopes de. Lógica Matemática. São Paulo: Pearson, 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/150814 SOUZA, Sérgio Guedes de. Lógica de Programação Algorítmica. Ed São Paulo: Pearson, 2014. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22146 )
+    Período: 2
+    Carga Horária: 80
+    Percentual de Acerto (IES): 37,8
+    Percentual de Acerto (UF): 39,6
+    Percentual de Acerto (Região): 35,4
+    Percentual de Acerto (Brasil): 35,9
+
+Ano: 2017
+Questão 21:
+    Resumo: Uma startup de tecnologia está desenvolvendo um aplicativo para conectar empresas que precisam transportar mercadorias a condutores autônomos de veículos de carga. O aplicativo visa aumentar a quantidade de transportadores e tipos de veículos disponíveis, além de permitir o compartilhamento de frete, reduzindo custos de transporte e armazenamento. Durante o desenvolvimento, foram criados modelos UML, incluindo um diagrama de atividades que ilustra o fluxo de informações entre a empresa, o aplicativo e os transportadores, destacando as etapas de solicitação e verificação de disponibilidade de veículos.
+    Disciplina Relacionada: ANÁLISE ORIENTADA POR OBJETOS (UML)
+    Ementa relacionada: Aborda a representação e modelagem de aplicações orientadas a objetos por intermédio da linguagem UML e seus diagramas, para a interação com o usuário no desenvolvimento dos sistemas de informação. BIBLIOGRAFIA COMPLEMENTAR: LEE, R. C; TEPFENHART, W. M. UML e C++: Guia prático de desenvolvimento orientado a objeto. Ed São Paulo: Pearson, 2001. Disponível na Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/40 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição. https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 RANGEL, P; JR, J, G, C. Sistemas Orientados a Objetos. Brasport, 2021. Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/197367 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 MORAIS, I. S. (org). ENGENHARIA DE SOFTWARE. São Paulo: Pearson Education do Brasil, 2017. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/184098
+    Período: 3
+    Carga Horária: 40
+    Percentual de Acerto (IES): 35,1
+    Percentual de Acerto (UF): 31,6
+    Percentual de Acerto (Região): 29,6
+    Percentual de Acerto (Brasil): 30,2
+
+Ano: 2017
+Questão 22:
+    Resumo: A questão aborda a tendência de desenvolver aplicações em nuvem, que melhora o desempenho de máquinas locais com recursos limitados, permitindo o uso de recursos computacionais mais potentes e a adição de novos hosts sem comprometer o sistema. Ela questiona qual tipo de sistema operacional é necessário para suportar esse cenário.
+    Disciplina Relacionada: INFRAESTRUTURA EM NUVEM
+    Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+    Período: 7
+    Carga Horária: 40
+    Percentual de Acerto (IES): 51,4
+    Percentual de Acerto (UF): 42,3
+    Percentual de Acerto (Região): 41,4
+    Percentual de Acerto (Brasil): 41,7
+
+Ano: 2017
+Questão 23:
+    Resumo: A questão aborda o conceito de junção entre tabelas no modelo de dados relacional, explicando como uma junção cria uma pseudo-tabela derivada de duas ou mais tabelas com base em critérios específicos, semelhante às regras da teoria dos conjuntos. São apresentados conjuntos que representam os resultados de consultas SQL, onde "id" é uma chave primária e "fk" é uma chave estrangeira. O objetivo é identificar qual declaração SQL é equivalente ao conjunto apresentado, que envolve a junção das tabelas Tabelal e Tabela2.
+    Disciplina Relacionada: Implementando Banco de Dados Relacionais
+    Ementa relacionada: Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL Operações de conjunto, Funções agregadas, Valores nulos, Sub-consultas aninhadas, Modificação dados no banco de dados (DML), Junção de consultas, Tipos de dados, Restrições de integridade, Definição de Tabelas (DDL), Autorização / Privilégios (DCL) e Consultas complexas Join. Exercícios práticos empregando os conceitos estudados, incluindo a criação e utilização de banco de dados relacional físico e programando com a linguagem SQL, e ferramentas de desenvolvimento em banco de dados no laboratório. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/1160 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+    Período: 4
+    Carga Horária: 40
+    Percentual de Acerto (IES): 51,4
+    Percentual de Acerto (UF): 46,6
+    Percentual de Acerto (Região): 46,3
+    Percentual de Acerto (Brasil): 45,5
+
+Ano: 2017
+Questão 24:
+    Resumo: Uma empresa realizou uma pesquisa de satisfação com notas de 0 a 10, onde 0 representa muita insatisfação e 10 muita satisfação. O quadro apresentado resume as notas atribuídas pelos clientes aos serviços recebidos, indicando a quantidade de clientes que deram cada nota. A questão pede a avaliação de afirmações relacionadas à média, mediana e desvio padrão das notas dos clientes.
+    Disciplina Relacionada: PROBABILIDADE E ESTATÍSTICA
+    Ementa relacionada: Apresenta elementos e conceitos de estatística para tratamento de informações para pesquisas e levantamentos estatísticos, seja no ambiente organizacional ou na área de TI. Apresenta uma análise exploratória de dados: Estatística Descritiva população, amostra, medidas de posição e dispersão. Probabilidades: introdução. Modelos matemáticos: Binomial, Poisson e Normal. Inferência e decisões estatísticas: estimação de parâmetros, distribuições, intervalo de confiança e testes de hipóteses. Regressão linear e correlação. Índices. Projeto de pesquisa estatística na área de formação. BIBLIOGRAFIA COMPLEMENTAR: Castanheira, Nelson Pereira. Estatística aplicada a todos os níveis. Curitiba. Intersaberes, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/6078/pdf/0 BONAFINI, , F. C. Matemática e Estatística. Editora: Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/26526 WALPOLE, Ronald E. Probabilidade e estatística para engenharia e ciências. 8a. Ed. São Paulo: Pearson Prentice Hall. 2009. https://plataforma.bvirtual.com.br/Leitor/Publicacao/449/pdf/0 WINTERLE, Paulo. Vetores e geometria analítica. 2ª. ed. São Paulo: Pearson Education do Brasil. 2014. ISBN 978- 85-430-0239-2. https://plataforma.bvirtual.com.br/Leitor/Publicacao/5672/pdf/0 QUINSER, Aline Purcote. Probabilidade e Estatística. 1. ed. São Paulo: Intersaberes, 2022. https://plataforma.bvirtual.com.br/Acervo/Publicacao/200204
+    Período: 3
+    Carga Horária: 80
+    Percentual de Acerto (IES): 24,3
+    Percentual de Acerto (UF): 28,4
+    Percentual de Acerto (Região): 28,7
+    Percentual de Acerto (Brasil): 27,5
+
+Ano: 2017
+Questão 26:
+    Resumo: A questão aborda a ordem de precedência dos operadores em linguagens de programação, destacando como os operadores aritméticos, relacionais e booleanos são avaliados. Ela menciona especificamente os operadores de incremento e decremento, além de apresentar uma tabela com a precedência dos operadores, e fornece valores para as variáveis a, b e c, que são 1, 2 e 0, respectivamente.
+    Disciplina Relacionada: ALGORITMOS E PROGRAMAÇÃO
+    Ementa relacionada: Introdução ao conceito de algoritmo. Desenvolvimento e representações de algoritmos. Os conceitos de variáveis, tipos de dados, constantes, operadores aritméticos, expressões, atribuição, estruturas de controle (atribuição, sequência, seleção, repetição). BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 ASCENCIO, Ana Fernanda G.; ARAUJO, Graziela S. Estruturas de Dados: algoritmos, análise da complexidade e implementações em Java e C/C++. São Paulo: Pearson Prentice Hall, 2010. ISBN 978- 85-7605-881-6. (Biblioteca Virtual). https://plataforma.bvirtual.com.br/Leitor/Publicacao/1995/pdf/0 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 BARBOSA, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 PIANEZZER, Guilherme Augusto. Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0
+    Período: 2
+    Carga Horária: 80
+    Percentual de Acerto (IES): 51,4
+    Percentual de Acerto (UF): 54,6
+    Percentual de Acerto (Região): 49,7
+    Percentual de Acerto (Brasil): 49,0
+
+Ano: 2017
+Questão 27:
+    Resumo: A questão aborda a classificação do conhecimento em tácito e explícito, destacando suas características e aplicações no desenvolvimento de software. O conhecimento tácito é pessoal e baseado em experiências, enquanto o explícito é formal e transmissível. A partir disso, são apresentadas afirmações sobre a utilização desses tipos de conhecimento nas etapas de desenvolvimento de software, que devem ser avaliadas quanto à sua veracidade.
+    Disciplina Relacionada: PROJETO INTERDISCIPLINAR
+    Ementa relacionada: Concepção, projeto, desenvolvimento e implementação de projetos em equipes, com posterior documentação e apresentação pública, sob coordenação de um professor, com o objetivo de resolver situações- problema que envolvam os conhecimentos, procedimentos, atitudes, competências e habilidades adquiridos pelos estudantes até esta fase do curso e que poderão ser encontrados em sua futura profissão. BIBLIOGRAFIA COMPLEMENTAR Específica, de acordo com o tema escolhido.
+    Período: 1
+    Carga Horária: 40
+    Percentual de Acerto (IES): 43,2
+    Percentual de Acerto (UF): 54,4
+    Percentual de Acerto (Região): 50,8
+    Percentual de Acerto (Brasil): 50,8
+
+Ano: 2017
+Questão 28:
+    Resumo: A questão aborda a identificação de uma falha em um projeto de desenvolvimento de sistema, que ocorreu durante a fase de homologação, devido à não consideração de requisitos básicos no levantamento. Essa falha resultou em um atraso no projeto, e a pergunta busca determinar em qual fase do gerenciamento de projetos, segundo o guia PMBOK, a falha teve origem, relacionando-a a processos das áreas de conhecimento de gestão do tempo e gestão do escopo.
+    Disciplina Relacionada: Gerência de Projetos e análise de riscos
+    Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 48,6
+    Percentual de Acerto (UF): 41,6
+    Percentual de Acerto (Região): 41,5
+    Percentual de Acerto (Brasil): 40,3
+
+Ano: 2017
+Questão 30:
+    Resumo: A questão aborda a importância de definir processos para gerenciar mudanças no escopo e configurações do software durante o desenvolvimento, incluindo atividades de planejamento, validação, verificação e gerenciamento de versões. Em seguida, são apresentadas cinco afirmações relacionadas a esses processos, que devem ser avaliadas quanto à sua correção.
+    Disciplina Relacionada: Manutenção e qualidade de Software
+    Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 48,6
+    Percentual de Acerto (UF): 58,1
+    Percentual de Acerto (Região): 55,7
+    Percentual de Acerto (Brasil): 54,6
+
+Ano: 2017
+Questão 31:
+    Resumo: A questão aborda a computação em nuvem e sua arquitetura em grid, que é composta por quatro camadas: rede, recursos, middleware e ferramentas e aplicações. O texto descreve as funções de cada camada, destacando a comunicação, armazenamento, processamento e troca de informações. Em seguida, são apresentadas afirmações sobre as responsabilidades de cada camada, que devem ser avaliadas quanto à sua veracidade.
+    Disciplina Relacionada: INFRAESTRUTURA EM NUVEM
+    Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+    Período: 7
+    Carga Horária: 40
+    Percentual de Acerto (IES): 54,1
+    Percentual de Acerto (UF): 50,9
+    Percentual de Acerto (Região): 49,2
+    Percentual de Acerto (Brasil): 49,3
+
+Ano: 2017
+Questão 32:
+    Resumo: A lei Sarbanes-Oxley (SOX), promulgada em 2002, visa proteger investidores de fraudes contábeis e financeiras, destacando a importância da Governança de Tecnologia da Informação (TI) nas organizações. Essa governança busca alinhar a TI aos requisitos de negócio, garantindo a continuidade dos serviços e minimizando riscos. A questão aborda a relação entre compliance, segurança da informação, integração tecnológica e a implementação de centros de serviços compartilhados em grandes organizações.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 27,0
+    Percentual de Acerto (UF): 31,6
+    Percentual de Acerto (Região): 31,0
+    Percentual de Acerto (Brasil): 29,9
+
+Ano: 2017
+Questão 33:
+    Resumo: A questão aborda a importância da segurança da informação em uma organização, destacando que é um fator decisivo na definição de redes de computadores. Enfatiza a necessidade de planejamento e estruturação para proteger informações contra acessos não autorizados e ataques cibernéticos, além de mencionar que a proteção da informação não deve ser responsabilidade exclusiva da área de tecnologia, mas sim um compromisso de todos os envolvidos.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 81,1
+    Percentual de Acerto (UF): 85,2
+    Percentual de Acerto (Região): 82,5
+    Percentual de Acerto (Brasil): 83,0
+
+Ano: 2017
+Questão 34:
+    Resumo: A questão aborda o conceito de cluster na arquitetura e organização de computadores, definindo-o como um grupo de computadores interconectados que operam como um recurso de computação unificado, onde cada computador é chamado de nó. O texto menciona a aplicação de clusters em ambientes corporativos, especialmente para servidores, e apresenta quatro afirmações sobre o funcionamento e características dos clusters, que devem ser avaliadas.
+    Disciplina Relacionada: ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+    Ementa relacionada: Histórico dos computadores e sua evolução; o estudo do funcionamento de um computador e de seus blocos principais (processador, memória, dispositivos de entrada e saída e barramentos). Conjunto de Instruções, Sistemas de Numeração e Aritmética Computacional. BIBLIOGRAFIA COMPLEMENTAR: Basso, Douglas Eduardo. Administração de Redes de Computadores. São Paulo. Ed Contentus, 2020. https://plataforma.bvirtual.com.br/Leitor/Publicacao/184850/pdf/0 Correa, Ana Grasielle Dionisio.Organização e arquitetura de computadores. São Paulo. Editora Pearson Edição: 1° (2017). https://plataforma.bvirtual.com.br/Leitor/Publicacao/124147/pdf/0 DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, D. R. Sistemas operacionais. 3.ed. São Paulo: Pearson Prentice Hall, 2005. ISBN 85-7605-011-0. https://plataforma.bvirtual.com.br/Leitor/Publicacao/315/pdf/0
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 35,1
+    Percentual de Acerto (UF): 46,9
+    Percentual de Acerto (Região): 43,8
+    Percentual de Acerto (Brasil): 43,7
+
+Ano: 2017
+Questão 35:
+    Resumo: O coordenador de um comitê olímpico pediu a criação de um aplicativo para registrar recordes de atletas, que deve manter a ordem cronológica dos eventos e permitir a leitura dos dados a partir dos mais recentes. A questão aborda qual estrutura de dados seria mais adequada para essa implementação.
+    Disciplina Relacionada: Estruturas de Dados e Programação
+    Ementa relacionada: Estrutura de dados e complexidade de algoritmos: Recursividade, Listas, filas, pilhas. Estruturas sequenciais e encadeadas. Métodos de pesquisa e ordenação de dados. Práticas e exercícios de Recursividade, Estruturas sequenciais e encadeadas, análise de algoritmos e métodos de pesquisa e ordenação. Práticas e exercícios de Estruturas sequenciais e encadeadas utilizando técnicas de programação. BIBLIOGRAFIA COMPLEMENTAR: ASCENCIO, A. F. G., Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal, C / C++. 3. ed. São Paulo: Pearson Education do Brasil, 2012. https://plataforma.bvirtual.com.br/Leitor/Publicacao/417/pdf/0 Barbosa, Marcos Antonio. Introdução à lógica matemática para acadêmicos. Curitiba, Intersaberes. 2017. https://plataforma.bvirtual.com.br/Leitor/Publicacao/49489/pdf/0 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição .https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 Pianezzer, Guilherme Augusto.Lógica matemática. São Paulo. Editora: Contentus Edição: 1° (2020). https://plataforma.bvirtual.com.br/Leitor/Publicacao/182653/pdf/0 Stallings, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0
+    Período: 3
+    Carga Horária: 80
+    Percentual de Acerto (IES): 59,5
+    Percentual de Acerto (UF): 59,9
+    Percentual de Acerto (Região): 55,4
+    Percentual de Acerto (Brasil): 54,8
+
+Ano: 2021
+Questão 10:
+    Resumo: A questão aborda a importância das organizações em se tornarem resilientes, responsivas e inovadoras, destacando a necessidade de assimilação dos estímulos do ambiente e a proposição de valor para atender às expectativas dos clientes. Um gráfico ilustra os principais benefícios do uso de redes sociais para as empresas, como divulgação da marca, engajamento com a audiência, aumento de vendas e tráfego no site. Em seguida, são apresentadas quatro afirmações sobre o papel das redes sociais na inteligência organizacional e competitiva, que devem ser avaliadas quanto à sua correção.
+    Disciplina Relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+    Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 22,2
+    Percentual de Acerto (UF): 46,2
+    Percentual de Acerto (Região): 42,6
+    Percentual de Acerto (Brasil): 42,6
+
+Ano: 2021
+Questão 11:
+    Resumo: Uma empresa busca reposicionar-se no mercado ampliando sua capacidade de atendimento em serviços computacionais, propondo a migração de servidores físicos para servidores virtuais do tipo II, onde Monitores de Máquina Virtual operam como processos dos Sistemas Operacionais hospedeiros, mantendo os Sistemas Operacionais originais como visitantes e adotando um único Sistema Operacional como hospedeiro. A questão envolve a avaliação de várias afirmações sobre esse modelo proposto.
+    Disciplina Relacionada: Sistemas Operacionais
+    Ementa relacionada: Sistemas Operacionais: Definição, Tipos, Estruturas de Sistemas, Processos, Espaços de Endereçamento, Arquivos, Entrada e Saída, Processos e threads, Impasses. Práticas da organização de computadores, tipos de componentes, instalação e configuração de sistemas operacionais: Linux, Windows. BIBLIOGRAFIA COMPLEMENTAR: Basso, Douglas Eduardo. Administração de Redes de Computadores. São Paulo. Ed Contentus, 2020. https://plataforma.bvirtual.com.br/Leitor/Publicacao/184850/pdf/0 Correa, Ana Grasielle Dionisio. Organização e arquitetura de computadores. São Paulo. Editora Pearson Edição: 1° (2017). https://plataforma.bvirtual.com.br/Leitor/Publicacao/124147/pdf/0 DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, D. R. Sistemas operacionais. 3.ed. São Paulo: Pearson Prentice Hall, 2005. ISBN 85-7605-011-0. https://plataforma.bvirtual.com.br/Leitor/Publicacao/315/pdf/0 Stallings, William. Arquitetura e Organização de Computadores - 5ª edição. São Paulo: Pearson Prentice hall, 2002. https://plataforma.bvirtual.com.br/Leitor/Publicacao/459/epub/0 TANENBAUM, Andrew S. Sistemas Operacionais Modernos. 2ª ed. São Paulo: Pearson Prentice Hall, 2003. https://plataforma.bvirtual.com.br/Leitor/Publicacao/395/pdf/0
+    Período: 4
+    Carga Horária: 40
+    Percentual de Acerto (IES): 50,0
+    Percentual de Acerto (UF): 51,7
+    Percentual de Acerto (Região): 50,8
+    Percentual de Acerto (Brasil): 51,5
+
+Ano: 2021
+Questão 12:
+    Resumo: A questão aborda a segurança dos dados em sistemas de informação, enfatizando a importância da confidencialidade, integridade e disponibilidade. Destaca que a proteção dos dados requer uma abordagem abrangente em toda a empresa, envolvendo arquitetura de sistemas, hardware, software, redes e a atuação de pessoas. Em seguida, apresenta duas asserções sobre a confidencialidade dos dados e as permissões de acesso, solicitando a avaliação da relação entre elas.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 11,1
+    Percentual de Acerto (UF): 28,4
+    Percentual de Acerto (Região): 25,9
+    Percentual de Acerto (Brasil): 26,2
+
+Ano: 2021
+Questão 13:
+    Resumo: A questão aborda a relação entre a qualidade do processo de desenvolvimento de software e a qualidade do produto final, destacando a importância da criatividade, habilidades e experiência dos desenvolvedores, além de fatores externos que podem impactar a qualidade. Enfatiza a relevância do gerenciamento e aprimoramento contínuo da qualidade do processo, a definição de padrões, o monitoramento do desenvolvimento e a necessidade de métricas para avaliar a qualidade do software.
+    Disciplina Relacionada: Manutenção e qualidade de Software
+    Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 16,7
+    Percentual de Acerto (UF): 44,4
+    Percentual de Acerto (Região): 44,4
+    Percentual de Acerto (Brasil): 43,9
+
+Ano: 2021
+Questão 14:
+    Resumo: A questão aborda os modelos CMMI-Dev e MPS-SW, destacando suas características, como a organização em níveis de maturidade e a relação com a Engenharia de Software. Ela solicita a avaliação de afirmações sobre esses modelos, focando na quantidade de níveis de maturidade, a necessidade de alinhamento com o planejamento estratégico e a relação entre o nível de maturidade e os resultados organizacionais.
+    Disciplina Relacionada: Manutenção e qualidade de Software
+    Ementa relacionada: Aborda o gerenciamento do processo de desenvolvimento de software para garantir a sua qualidade e a melhoria do processo de software. Revisões de software. Normas e padrões. Manutenção e evolução do software. Modelos de qualidade. BIBLIOGRAFIA COMPLEMENTAR: GAYER, J A.C.A. Gestão da Qualidade Total e Melhoria Contínua de Processos. Curitiba: Contentus, 2020. 90 p. ISBN 9786557452059. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184652/pdf/0 Giocondo Marino Antonio, Gallotti. Qualidade de software. São Paulo. Ed. Pearson. 20015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/124148/pdf/0 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0 CAVALCANTI, R. Modelagem de Processos: roteiro para realização de modelagem de processos de negócios. Editora Brasport. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/159980
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 72,2
+    Percentual de Acerto (UF): 59,8
+    Percentual de Acerto (Região): 57,4
+    Percentual de Acerto (Brasil): 58,5
+
+Ano: 2021
+Questão 15:
+    Resumo: A questão aborda a definição de projetos como esforços temporários para criar produtos, serviços ou resultados únicos, e solicita a avaliação de quatro afirmações relacionadas a essa definição.
+    Disciplina Relacionada: Gerência de Projetos e análise de riscos
+    Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 66,7
+    Percentual de Acerto (UF): 63,5
+    Percentual de Acerto (Região): 62,1
+    Percentual de Acerto (Brasil): 62,0
+
+Ano: 2021
+Questão 16:
+    Resumo: A computação em nuvem é composta por recursos virtualizados acessíveis pela internet, permitindo configuração dinâmica e escalabilidade sob demanda, geralmente com um modelo de pagamento por uso e garantias através de SLAs. Os provedores oferecem três tipos principais de serviços: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS).
+    Disciplina Relacionada: INFRAESTRUTURA EM NUVEM
+    Ementa relacionada: Introdução ao conceito de computação em nuvem. Aspectos de infraestrutura de TI "tradicional" e em nuvem, camadas e seus principais elementos incluindo computação, sistemas operacionais, armazenamento, serviços de rede. Aspectos da Computação em Nuvem, conceitos, tipos, utilização, fornecedores, modelo de negócios, utilização corporativa, Soluções corporativas de "Software como Serviço", "Plataforma como Serviço" e "Infraestrutura como Serviço". Componentes de infraestrutura em nuvem (regiões, zonas de disponibilidade. BIBLIOGRAFIA COMPLEMENTAR: ELMASRI, R. & NAVATHE, S.B. Sistemas de Banco de Dados, 7ª Ed., Pearson/Addison Wesley, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/296 KOLBE JR, A. Computação em nuvem. Editora Contentus. 2020. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851 LEAL, G. C. L. Linguagem Programação e Banco de Dados: Guia prático de aprendizagem. Curitiba: Intersaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 TANENBAUM, A. S.; WETHERHALL, D. Redes de Computadores. Editora Pearson 2011. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/191628 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+    Período: 7
+    Carga Horária: 40
+    Percentual de Acerto (IES): 22,2
+    Percentual de Acerto (UF): 20,7
+    Percentual de Acerto (Região): 19,7
+    Percentual de Acerto (Brasil): 20,4
+
+Ano: 2021
+Questão 19:
+    Resumo: O gerenciamento de serviços de TI visa a entrega e suporte de serviços alinhados às necessidades dos clientes e à estratégia de negócios da organização, buscando atender aos custos e desempenho desejados por meio de acordos de nível de serviço estabelecidos entre a área de TI e outras áreas envolvidas. A questão apresenta duas asserções sobre acordos de nível de serviço e a necessidade de monitoramento de serviços.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 50,0
+    Percentual de Acerto (UF): 59,8
+    Percentual de Acerto (Região): 58,0
+    Percentual de Acerto (Brasil): 57,9
+
+Ano: 2021
+Questão 20:
+    Resumo: O paradigma de programação em lógica envolve a definição de relações por meio de fatos e regras, permitindo consultas sobre essas relações. Um exemplo é a construção de um banco de dados familiar, onde são estabelecidas relações de parentesco, como pai e mãe. Fatos são definidos por cláusulas sem condições, enquanto regras são cláusulas com condições que permitem deduzir novas informações, como a relação de avô materno. A questão pede a avaliação de várias afirmações relacionadas a essas definições e regras.
+    Disciplina Relacionada: RACIOCÍNIO ANALÍTICO E LÓGICA MATEMÁTICA
+    Ementa relacionada: Técnicas diferenciadas para resolução de problemas e a construção do raciocínio analítico. Resolução de problemas de raciocínio, com argumentações do tipo mentiras e verdades, crescendo para as questões de proposições lógicas. Construção de tabela-verdade. BIBLIOGRAFIA COMPLEMENTAR: LEITE, Álvaro Emilio. Raciocínio Lógico e Lógica Quantitativa. Intersaberes. 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/54340 PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estruturas de dados: com aplicações em Java. 2.ed. São Paulo: Pearson Education do Brasil, 2010. 262 p., il. Bibliografia. ISBN 9788576052074. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/423/pdf/0 WUINSLER, Aline Purcote. Raciocínio lógico, crítico e analítico contábil. Curitiba Contentus, 2020. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/186717/ SOUZA, Jeferson Afonso Lopes de. Lógica Matemática. São Paulo: Pearson, 2017. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/150814 SOUZA, Sérgio Guedes de. Lógica de Programação Algorítmica. Ed São Paulo: Pearson, 2014. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22146 )
+    Período: 2
+    Carga Horária: 80
+    Percentual de Acerto (IES): 27,8
+    Percentual de Acerto (UF): 42,4
+    Percentual de Acerto (Região): 36,2
+    Percentual de Acerto (Brasil): 36,9
+
+Ano: 2021
+Questão 22:
+    Resumo: A questão aborda a gerência de projetos, destacando a importância do gerente na condução de projetos na área de computação, incluindo desenvolvimento e implantação de softwares e hardwares. O texto menciona o papel do gerente em resolver conflitos, administrar interesses das partes e acompanhar a evolução do projeto, além de referir-se ao Guia PMBOK como uma fonte de conhecimento em gerenciamento de projetos. Em seguida, são apresentadas afirmações relacionadas a aspectos do gerenciamento de projetos, como o termo de abertura, a Estrutura Analítica do Projeto (EAP), a troca de membros da equipe e a criação da matriz de responsabilidade.
+    Disciplina Relacionada: Gerência de Projetos e análise de riscos
+    Ementa relacionada: Gerenciamento dos Recursos de Informação, Gerenciamento de Projetos com o PMI (Project Management Institute), Planejamento e controle de projetos. Análise e Gestão de riscos, Métodos de estimativa de esforço, prazo e custos no projeto de sistemas. Estratégias de alinhamento do TI aos negócios. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 FOGGETTI, C. Gestão Ágil de Projetos. Editora Pearson. ( ). https://plataforma.bvirtual.com.br/Acervo/Publicacao/22131 RIBEIRO, C. Gestão por processos e a Integração Estratégica. Curitiba: Contentus, 2020. 113 p. ISBN 9786557452134. (Biblioteca Virtual Pearson). https://plataforma.bvirtual.com.br/Leitor/Publicacao/184499/pdf/0 SOMMERVILLE, Ian. Engenharia de Software. 10ª ed. São Paulo: Pearson Prentice Hall, 2011. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0
+    Período: 8
+    Carga Horária: 40
+    Percentual de Acerto (IES): 27,8
+    Percentual de Acerto (UF): 41,8
+    Percentual de Acerto (Região): 38,8
+    Percentual de Acerto (Brasil): 38,9
+
+Ano: 2021
+Questão 23:
+    Resumo: A questão aborda a recuperação de dados em um banco de dados utilizando consultas SQL, apresentando um conjunto de tabelas relacionadas a motoristas, carros e reservas. O objetivo é identificar quais motoristas reservaram carros da cor vermelha, com base nas informações fornecidas nas tabelas.
+    Disciplina Relacionada: Implementando Banco de Dados Relacionais
+    Ementa relacionada: Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL Operações de conjunto, Funções agregadas, Valores nulos, Sub-consultas aninhadas, Modificação dados no banco de dados (DML), Junção de consultas, Tipos de dados, Restrições de integridade, Definição de Tabelas (DDL), Autorização / Privilégios (DCL) e Consultas complexas Join. Exercícios práticos empregando os conceitos estudados, incluindo a criação e utilização de banco de dados relacional físico e programando com a linguagem SQL, e ferramentas de desenvolvimento em banco de dados no laboratório. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/1160 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152
+    Período: 4
+    Carga Horária: 40
+    Percentual de Acerto (IES): 88,9
+    Percentual de Acerto (UF): 86,5
+    Percentual de Acerto (Região): 82,3
+    Percentual de Acerto (Brasil): 83,1
+
+Ano: 2021
+Questão 24:
+    Resumo: A questão aborda a aplicação de pesquisa operacional em uma empresa de montagem de computadores que precisa atender a uma demanda específica de produção de desktops, notebooks e netbooks em duas fábricas, considerando os custos de produção e as capacidades de cada unidade. O objetivo é determinar o modelo que representa essa situação e calcular a quantidade de dias que cada fábrica deve operar para atender à demanda com o menor custo possível.
+    Disciplina Relacionada: Pesquisa Operacional
+    Ementa relacionada: Apresenta ao aluno, processos para modelar e estudar estratégias de resolução de problemas de produção, custos, com uma abordagem matemática através de conceitos de Pesquisa Operacional definição e formulação de problemas de Programação Linear, Solução Gráfica, Método Simplex e Dualidade Linear. BIBLIOGRAFIA COMPLEMENTAR: FERNANDES, Luana Fonseca Duarte. Geometria analítica. Curitiba: Intersaberes. 2016. ISBN 978-85-5972-020-4. https://plataforma.bvirtual.com.br/Leitor/Publicacao/37362/pdf/0 BARABOSA, M. A.; ZANARDINI, R. A. D. Iniciação à pesquisa operacional no ambiente de gestão. Editora Intersaberes. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/179913 LEAL NETO, J. DE S. Pesquisa Operacional. Editora Contentus. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191644 FOGLIATTI, M. C.; MATTOS, N. M. C. Teoria de Filas. Editora Interciência. 2006. https://plataforma.bvirtual.com.br/Acervo/Publicacao/123784 BOAVENTURA NETO, P. O.; JURKIEWICZ, S. Grafos: introdução e prática. Editora Blucher. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/177879
+    Período: 4
+    Carga Horária: 40
+    Percentual de Acerto (IES): 27,8
+    Percentual de Acerto (UF): 30,2
+    Percentual de Acerto (Região): 27,8
+    Percentual de Acerto (Brasil): 27,1
+
+Ano: 2021
+Questão 25:
+    Resumo: A questão aborda a segurança da informação conforme a ABNT NBR ISO/IEC 27002 (2013), destacando a importância da proteção dos ativos de informação e tecnologias, fundamentada nos princípios de integridade, disponibilidade e confidencialidade. Também menciona a proteção contra acessos não autorizados e ameaças, visando a continuidade do negócio, minimização de riscos e maximização de retornos. Em seguida, solicita a avaliação de várias afirmações relacionadas a esses conceitos.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 61,1
+    Percentual de Acerto (UF): 62,1
+    Percentual de Acerto (Região): 57,9
+    Percentual de Acerto (Brasil): 58,5
+
+Ano: 2021
+Questão 26:
+    Resumo: A questão aborda o conceito de Big Data, destacando suas características principais: volume, variedade, velocidade e veracidade. Ela solicita a avaliação de afirmações relacionadas a essas características, enfatizando a necessidade de ferramentas adequadas para lidar com grandes volumes de dados, a diversidade de formatos e fontes de dados, a importância do processamento em tempo hábil e a garantia da qualidade dos dados coletados.
+    Disciplina Relacionada: BUSINESS INTELIGENCE and ANALYTICS
+    Ementa relacionada: Apresenta os fundamentos de Business Intelligence(BI) e os componentes de uma solução de BI. Diferencia ambiente transacional de ambiente de suporte a decisão. Apresenta as etapas de construção de um projeto de Data Warehouse bem como a modelagem Multidimensional de dados adequada para sistemas de suporte a decisão. Apresenta as operações OLAP. Implementa uma solução prática de BI. Apresenta ferramentas de destaque no mercado para acesso e análise das informações geradas pela solução de BI. BIBLIOGRAFIA COMPLEMENTAR: BOND, M. Aprenda J2EE em 21 Dias. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/271 VALDATI, A. DE B. Inteligência Artificial – IA. Editora Contentus. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) AVIS, M. C. Marketing Digital baseado em dados. Editora Intersaberes. 2021. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/187445
+    Período: 7
+    Carga Horária: 80
+    Percentual de Acerto (IES): 61,1
+    Percentual de Acerto (UF): 60,8
+    Percentual de Acerto (Região): 56,5
+    Percentual de Acerto (Brasil): 56,1
+
+Ano: 2021
+Questão 28:
+    Resumo: A questão aborda a Governança de Tecnologia da Informação e sua importância nos processos estratégicos das organizações, destacando a relação entre controles de TI, como segurança da informação e integração tecnológica, e controles de gestão, como marcos de regulação e ambiente de negócio.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 50,0
+    Percentual de Acerto (UF): 58,3
+    Percentual de Acerto (Região): 55,9
+    Percentual de Acerto (Brasil): 56,5
+
+Ano: 2021
+Questão 29:
+    Resumo: A questão apresenta um modelo de entidades e relacionamentos para um sistema de dados de uma clínica médica, envolvendo as entidades MÉDICO, ESPECIALIDADE, PACIENTE, DEPENDENTE, CONSULTA e CONVÊNIO. O enunciado solicita a avaliação de afirmações sobre as restrições de participação e cardinalidade entre essas entidades.
+    Disciplina Relacionada: MODELAGEM DE BANCO DE DADOS
+    Ementa relacionada: Apresenta os conceitos de Banco de Dados e Sistema Gerenciador de Banco de Dados. Demonstra as fases de projeto de um Banco de Dados: a construção do Modelo Conceitual usando Diagrama de Entidade e Relacionamento, a construção do Modelo Lógico usando Diagrama de Tabelas Relacionais e a normalização de esquemas utilizando as formas normais. Fundamentos do Modelo Físico de Banco de dados Relacional, Introdução a Linguagem de interação com Banco de Dados (Structured Query Language), Estrutura básica das consultas SQL. BIBLIOGRAFIA COMPLEMENTAR: GRAVES, M. Projeto de Banco de Dados com XML. São Paulo: Pearson Education do Brasil, 2003. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/700 LEAL, G. C. L. Linguagem, Programação e Banco de Dados: guia prático de aprendizagem. Curitiba: InterSaberes, 2015. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/30495 MEDEIROS, L. F. Banco de Dados: princípios e prática. Curitiba: Ibpex, 2013. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/6289 VICCI, C. Banco de Dados – 1ª ed. São Paulo: Pearson Education do Brasil, 2014. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/22152 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127
+    Período: 3
+    Carga Horária: 40
+    Percentual de Acerto (IES): 38,9
+    Percentual de Acerto (UF): 46,5
+    Percentual de Acerto (Região): 43,6
+    Percentual de Acerto (Brasil): 44,2
+
+Ano: 2021
+Questão 30:
+    Resumo: A questão aborda os componentes de um sistema especialista, especificamente em relação a um sistema voltado para diagnósticos médicos, destacando a importância de cada componente, como a base de conhecimento, base de informações estratégicas, base de regras, analisador semântico e motor de inferência.
+    Disciplina Relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+    Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 5,6
+    Percentual de Acerto (UF): 16,5
+    Percentual de Acerto (Região): 15,3
+    Percentual de Acerto (Brasil): 16,2
+
+Ano: 2021
+Questão 31:
+    Resumo: A questão aborda a importância da Governança de Tecnologia da Informação (TI) no monitoramento do cumprimento das regras de negócio através de um catálogo de serviços, destacando a necessidade de modelos de referência para uma governança eficaz. Ela menciona que esses modelos são prescritivos e variam em enfoque e cobertura, e solicita a avaliação de quais modelos definem o direcionamento, avaliação e monitoramento das instâncias de gestão de TI, listando quatro modelos específicos.
+    Disciplina Relacionada: Governança de TI e Segurança da Informação
+    Ementa relacionada: Aborda a implantação da Governança de TI com COBIT (Control Objectives for Information and Related Technology) e ITIL (Information Tecnology Infrastructure Library). Trata a gestão da Segurança da Informação, identificação de ativos da Informação, os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. Norma ISO 27000. Análise de Riscos. BIBLIOGRAFIA COMPLEMENTAR: TAMMENHAIN, A. C. Gestão de operações de segurança: estratégia e tática. Editora Intersaberes. 2020. https://plataforma.bvirtual.com.br/Acervo/Publicacao/178167 KOLBE JUNIOR, A. Sistemas de segurança da informação na era do conhecimento. Editora Intersaberes. 2017. https://plataforma.bvirtual.com.br/Acervo/Publicacao/52012 JOÃO, B. N. Tecnologia da Informação gerencial. Editora Pearson. 2015. https://plataforma.bvirtual.com.br/Acervo/Publicacao/151076 BITTENCOURT, S. Licitação de Tecnologia da Informação. Editora JH Mizuno. 2018. https://plataforma.bvirtual.com.br/Acervo/Publicacao/191262 LAUDON, K.; LAUNDON, J. Sistemas de Informação Gerenciais. 9ª. ed. Editora Pearson. 2011. https://plataforma.bvirtual.com.br/Acervo/Publicacao/2619
+    Período: 8
+    Carga Horária: 80
+    Percentual de Acerto (IES): 33,3
+    Percentual de Acerto (UF): 27,8
+    Percentual de Acerto (Região): 27,8
+    Percentual de Acerto (Brasil): 27,7
+
+Ano: 2021
+Questão 32:
+    Resumo: A questão apresenta um diagrama de sequência relacionado ao desenvolvimento do módulo de integração do sistema do SAMU com hospitais, focando nas chamadas de funções para solicitar e procurar leitos. São feitas duas asserções sobre a simultaneidade das chamadas e o impacto no tempo de resposta, que devem ser avaliadas quanto à sua veracidade e relação entre si.
+    Disciplina Relacionada: ANÁLISE ORIENTADA POR OBJETOS (UML)
+    Ementa relacionada: Aborda a representação e modelagem de aplicações orientadas a objetos por intermédio da linguagem UML e seus diagramas, para a interação com o usuário no desenvolvimento dos sistemas de informação. BIBLIOGRAFIA COMPLEMENTAR: LEE, R. C; TEPFENHART, W. M. UML e C++: Guia prático de desenvolvimento orientado a objeto. Ed São Paulo: Pearson, 2001. Disponível na Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/40 Deitel. H. M., Deitel. P. J.Java: como programar. São Paulo. Pearson. 6º Edição. https://plataforma.bvirtual.com.br/Leitor/Publicacao/325/pdf/0 RANGEL, P; JR, J, G, C. Sistemas Orientados a Objetos. Brasport, 2021. Biblioteca Virtual Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/197367 SOMMERVILLE. i. Engenharia de Software. 10. ed. São Paulo: Pearson AddisonWesley, 2019. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127 MORAIS, I. S. (org). ENGENHARIA DE SOFTWARE. São Paulo: Pearson Education do Brasil, 2017. (Biblioteca Virtual) https://plataforma.bvirtual.com.br/Leitor/Publicacao/184098
+    Período: 3
+    Carga Horária: 40
+    Percentual de Acerto (IES): 22,2
+    Percentual de Acerto (UF): 37,2
+    Percentual de Acerto (Região): 36,3
+    Percentual de Acerto (Brasil): 35,5
+
+Ano: 2021
+Questão 34:
+    Resumo: A questão aborda os desafios e oportunidades relacionados ao desenvolvimento de cidades inteligentes, destacando a importância das Tecnologias da Informação e Comunicação (TIC) na coleta e análise de dados urbanos. Ela menciona a necessidade de enfrentar problemas de infraestrutura, a dificuldade de integração entre sistemas específicos, e os desafios de privacidade, segurança e gerenciamento de dados. Além disso, discute o papel da Internet das Coisas (IoT) na conexão de objetos do cotidiano em ambientes urbanos.
+    Disciplina Relacionada: FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+    Ementa relacionada: Evolução da Informática e dos sistemas de informação; A importância dos Sistemas de Informação para as empresas na era digital. Infraestrutura de TI. Aplicativos integrados. Comércio eletrônico. Sistemas de Apoio a decisão. Metodologia para Desenvolvimento e Manutenção de Sistemas de Informação. Desafios éticos e a Tecnologia da Informação. BIBLIOGRAFIA COMPLEMENTAR: ELEUTÉRIO, M.A. M. Sistemas de informações gerenciais na atualidade. Curitiba: Intersaberes. 2015. https://plataforma.bvirtual.com.br/Leitor/Publicacao/31402/pdf/0 ALVES, E. B. Sistemas de informações em marketing: uma visão 360 das informações mercadológicas. Curitiba: Intersaberes, 2018. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/158412 MUNHOZ, A. S. Visão estratégica dos sistemas de informações gerenciais na gestão de pessoas. Curitiba: Intersaberes, 2017. (Biblioteca Digital Pearson) https://plataforma.bvirtual.com.br/Leitor/Publicacao/149588 CAPRON, H. L. JOHNSON, J. A. Introdução à Informática – 8ª edição. São Paulo: Pearson Education do Brasil, 2004. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/406 KOHLS, C. C. DUTRA, L. H. M. WELTER, S. LGPD: Da teoria à implementação nas empresas. São Paulo: Rideel, 2021. (Biblioteca Virtual Pearson) https://plataforma.bvirtual.com.br/Acervo/Publicacao/188197
+    Período: 2
+    Carga Horária: 40
+    Percentual de Acerto (IES): 50,0
+    Percentual de Acerto (UF): 37,5
+    Percentual de Acerto (Região): 35,0
+    Percentual de Acerto (Brasil): 35,6
+
+Ano: 2021
+Questão 35:
+    Resumo: A legibilidade refere-se a características que influenciam a facilidade de leitura de textos, como brilho, contraste, tamanho da fonte e espaçamento. A questão avalia afirmações sobre a legibilidade em interfaces, abordando aspectos como a apresentação de textos longos, o uso de letras maiúsculas e minúsculas, o comprimento das linhas e a legibilidade para idosos ou pessoas com problemas de visão.
+    Disciplina Relacionada: Interface Humano-computador
+    Ementa relacionada: Introduz conceitos fundamentais da interação entre o usuário humano e o computador. Apresenta usabilidade e métodos para avaliação da usabilidade. Apresenta a interação do usuário com sistemas hipermídia. Trata sobre questões de Acessibilidade na interação homem-computador. BIBLIOGRAFIA COMPLEMENTAR ULBRICHT, Valeria Ribas; FADEL, Luciane Maria; BATISTA; Claudia Regina. Design para acessibilidade e inclusão. São Paulo, SP: Editora Blucher. 2017. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/163640/pdf/0 FERREIRA, Marcelo Bellon. Prototipagem e testes de usabilidade. 1. ed. Curitiba, PR:Contentus, 2020. [Recurso eletrônico]. ISBN: 9786557452370. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/183505/pdf/0 COSTA, Margarete Terezinha de Andrade Costa. Tecnologia assistiva. 1. Ed. Curitiba, PR:Contentus, 2020. ISBN: 9786557450253. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/182444/pdf/0 CARDOSO, Leandro da Conceição. Design Digital. 1. Ed. Curitiba, PR: Intersaberes, 2021. ISBN: 9786555179330. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/187436/pdf/0 ABRAHÃO, Júlia Issy; MONTEDO, Uiara Bandineli; MASCIA. Fausto Leopoldo; FLEURY, André Leme; SANTOS, Hebert dos. Ergonomia e usabilidade: em ambiente virtual de aprendizagem. 1. Ed. São Paulo, SP: Editora Blucher, 2013. ISBN: 9788521206392. Disponível na Biblioteca Virtual: https://plataforma.bvirtual.com.br/Leitor/Publicacao/164692/pdf/0
+    Período: 1
+    Carga Horária: 40
+    Percentual de Acerto (IES): 38,9
+    Percentual de Acerto (UF): 38,6
+    Percentual de Acerto (Região): 36,8
+    Percentual de Acerto (Brasil): 36,3
+
